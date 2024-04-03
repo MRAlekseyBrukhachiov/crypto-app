@@ -15,9 +15,9 @@
 
 Для запуска проекта необходимо выполнить следующие действия:
 
-1. Склонировать проект на ваш компьютер с [Github](https://github.com/FilimonovAlexey/movies-explorer-frontend/tree/level-3) с помощью команды:
+1. Склонировать проект на ваш компьютер с [Github](https://github.com/MRAlekseyBrukhachiov/crypto-app) с помощью команды:
 ```
-git clone git@github.com:FilimonovAlexey/movies-explorer-frontend.git
+git clone https://github.com/MRAlekseyBrukhachiov/crypto-app.git
 ```
 2. Установить зависимости frontend-части приложения и создать билд:
 ```
