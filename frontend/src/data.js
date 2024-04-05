@@ -643,3 +643,1702 @@ export const cryptoAssets = [
     date: new Date(),
   },
 ]
+
+export const cryptoLatestNews = {
+  result: [
+    {
+      "id": "6b5efec4cbe3c3e7fafe1ab9b36a8681e5d5eba1bcf3da4311e6c8dea72f3262",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "altcoin news",
+        "jup price",
+        "jupiter",
+        "jupiter (jup)",
+        "jupiter (jup) price",
+        "solana",
+        "announces",
+        "major",
+        "upgrade,",
+        "jup",
+        "price",
+        "to",
+        "rally?",
+        "rally"
+      ],
+      "feedDate": 1712305880000,
+      "source": "CoinGape",
+      "title": "Solana DEX Jupiter Announces Major Upgrade, JUP Price To Rally?",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/03/Jupiter-JUP.jpeg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/6b5efec4cbe3c3e7fafe1ab9b36a8681e5d5eba1bcf3da4311e6c8dea72f3262_Solana-DEX-Jupiter-Announces-Major-Upgrade-JUP-Price-To-Rally",
+      "relatedCoins": [
+        "jupiter-exchange-solana",
+        "solana",
+        "rally-2"
+      ],
+      "content": true,
+      "link": "https://coingape.com/solana-dex-jupiter-announces-major-upgrade-jup-price-to-rally/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Jupiter, a prominent decentralized exchange (DEX) on the Solana blockchain, has unveiled plans for a significant infrastructure overhaul set to commence next week. This eagerly anticipated upgrade comes in response to the recent surge in network congestion and the proliferation of markets, exacerbated by an influx of token spam and scams. With an unwavering commitment ",
+      "coins": [
+        {
+          "coinKeyWords": "JUP",
+          "coinPercent": -12.99,
+          "coinTitleKeyWords": "JUP",
+          "coinNameKeyWords": "Jupiter",
+          "coinIdKeyWords": "jupiter-exchange-solana"
+        },
+        {
+          "coinKeyWords": "SOL",
+          "coinPercent": -5.08,
+          "coinTitleKeyWords": "SOL",
+          "coinNameKeyWords": "Solana",
+          "coinIdKeyWords": "solana"
+        },
+        {
+          "coinKeyWords": "RLY",
+          "coinPercent": 1.25,
+          "coinTitleKeyWords": "RLY",
+          "coinNameKeyWords": "Rally",
+          "coinIdKeyWords": "rally-2"
+        }
+      ]
+    },
+    {
+      "id": "dac8e88079a1fd254b41c81ed09671063d0261264cb0903cb5c1e26db2ad7e0a",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "altcoin news",
+        "bch price surge",
+        "bitcoin cash",
+        "bitcoin cash halving",
+        "bitcoin cash price",
+        "bitcoin",
+        "(bch)",
+        "price",
+        "3-year",
+        "above",
+        "$700,",
+        "steam",
+        "left?"
+      ],
+      "feedDate": 1712305880000,
+      "source": "CoinGape",
+      "title": "Bitcoin Cash (BCH) Price At 3-Year High Above $700, More Steam Left?",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/04/bitcoin-cash2.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/dac8e88079a1fd254b41c81ed09671063d0261264cb0903cb5c1e26db2ad7e0a_Bitcoin-Cash-BCH-Price-At-3Year-High-Above-700-More-Steam-Left",
+      "relatedCoins": [
+        "bitcoin",
+        "bitcoin-cash"
+      ],
+      "content": true,
+      "link": "https://coingape.com/bitcoin-cash-bch-price-hits-3-year-high-above-700-more-steam-left/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Bitcoin Cash (BCH) has experienced a notable price surge in the past week, witnessing an increase of over 20%. Today, the Bitcoin Cash (BCH) price surged to its highest level in three years, gaining an additional 14% and surpassing the $700 mark for the first time since 2021. Bitcoin Cash Halving Pumps BCH Price A ",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 1.57,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "BCH",
+          "coinPercent": 3.31,
+          "coinTitleKeyWords": "BCH",
+          "coinNameKeyWords": "Bitcoin Cash",
+          "coinIdKeyWords": "bitcoin-cash"
+        }
+      ]
+    },
+    {
+      "id": "9f01a3bcac287659a55ce7e9a7012e9426cf5e6ca40fe73f5b8bcc14d6c9145b",
+      "searchKeyWords": [
+        "bitcoin",
+        "news",
+        "btc",
+        "bitcoin’s",
+        "notable",
+        "gains",
+        "outside",
+        "us",
+        "trading",
+        "hours",
+        "signal",
+        "opportunities",
+        "traders!"
+      ],
+      "feedDate": 1712305803000,
+      "source": "CoinOtag EN",
+      "title": "Bitcoin’s Notable Gains Outside US Trading Hours Signal New Opportunities for Traders!",
+      "sourceLink": "https://en.coinotag.com/",
+      "isFeatured": false,
+      "imgUrl": "https://i0.wp.com/en.coinotag.com/wp-content/uploads/2024/01/btc-gold.webp?fit=1024%2C576&%23038;quality=70&%23038;ssl=1",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/9f01a3bcac287659a55ce7e9a7012e9426cf5e6ca40fe73f5b8bcc14d6c9145b_Bitcoins-Notable-Gains-Outside-US-Trading-Hours-Signal-New-Opportunities-for-Traders",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://en.coinotag.com/bitcoins-notable-gains-outside-us-trading-hours-signal-new-opportunities-for-traders/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "With Bitcoin's performance peaking outside U.S. trading hours, analysts see a fresh avenue for traders to maximize returns, challenging previous market dynamics.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 1.57,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "afbb1adf13fed45cad440a45f195dd84f6bc2a8a6a8522c18a37d7cce3a7667f",
+      "searchKeyWords": [
+        "altcoins news",
+        "bch",
+        "bitcoin",
+        "price",
+        "prediction:",
+        "might",
+        "hit",
+        "$1000",
+        "2024",
+        "as",
+        "dtx",
+        "exchange",
+        "(dtx)",
+        "crosses",
+        "$100k",
+        "1",
+        "presale",
+        "bitcoin cash"
+      ],
+      "feedDate": 1712305800000,
+      "source": "BlockchainReporter",
+      "title": "Bitcoin Cash Price Prediction: BCH Might Hit $1000 in 2024 as DTX Exchange (DTX) Crosses $100K in Day 1 Presale",
+      "sourceLink": "blockchainreporter.net",
+      "isFeatured": false,
+      "imgUrl": "https://blockchainreporter.net/wp-content/uploads/2024/04/aaaa654542-1-150x150.png",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/afbb1adf13fed45cad440a45f195dd84f6bc2a8a6a8522c18a37d7cce3a7667f_Bitcoin-Cash-Price-Prediction-BCH-Might-Hit-1000-in-2024-as-DTX-Exchange-DTX-Crosses-100K-in-Day-1-Presale",
+      "relatedCoins": [
+        "bitcoin",
+        "bitcoin-cash"
+      ],
+      "content": true,
+      "link": "https://blockchainreporter.net/bitcoin-cash-price-prediction-bch-might-hit-1000-in-2024-as-dtx-exchange-dtx-crosses-100k-in-day-1-presale/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Bitcoin Cash Price is skyrocketing. It is predicted to reach the $1000 mark in  2024. Amid BCH’s upward trajectory, DTX has been drawing attention with its unprecedented presale.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 1.57,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "BCH",
+          "coinPercent": 3.31,
+          "coinTitleKeyWords": "BCH",
+          "coinNameKeyWords": "Bitcoin Cash",
+          "coinIdKeyWords": "bitcoin-cash"
+        }
+      ]
+    },
+    {
+      "id": "5756b3613c6e20ee630185edd6c42e2f63d83b2cc8c8680a49c05c5b8f22cfd7",
+      "searchKeyWords": [
+        "cryptocurrency law",
+        "philippines",
+        "declares",
+        "etoro",
+        "unauthorized",
+        "local",
+        "securities",
+        "offering"
+      ],
+      "feedDate": 1712305749000,
+      "source": "COINTURK NEWS",
+      "title": "Philippines SEC Declares eToro Unauthorized for Local Securities Offering",
+      "sourceLink": "https://en.coin-turk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://en.coin-turk.com/wp-content/uploads/2024/04/cryptocurrency-law-10.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/5756b3613c6e20ee630185edd6c42e2f63d83b2cc8c8680a49c05c5b8f22cfd7_Philippines-SEC-Declares-eToro-Unauthorized-for-Local-Securities-Offering",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://en.coin-turk.com/philippines-sec-declares-etoro-unauthorized-for-local-securities-offering/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Philippines SEC states eToro lacks authority to offer securities. eToro is popular globally, with over 140 million users worldwide.",
+      "coins": []
+    },
+    {
+      "id": "489303b2763caebf5abecb5aef756c71c1c935ee784a730344b75a81d6be16ff",
+      "searchKeyWords": [
+        "press release",
+        "prepare",
+        "next",
+        "run,",
+        "top",
+        "5",
+        "cryptocurrencies",
+        "to",
+        "buy",
+        "and",
+        "during",
+        "flash",
+        "crash",
+        "ethereum",
+        "internet computer",
+        "near protocol",
+        "immutable"
+      ],
+      "feedDate": 1712305623000,
+      "source": "Coinpedia",
+      "title": "Prepare for the Next Bull Run, Top 5 Cryptocurrencies to Buy and Hold During the Crypto Flash Crash",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/03/01132553/hodl-1024x536.webp",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/489303b2763caebf5abecb5aef756c71c1c935ee784a730344b75a81d6be16ff_Prepare-for-the-Next-Bull-Run-Top-5-Cryptocurrencies-to-Buy-and-Hold-During-the-Crypto-Flash-Crash",
+      "relatedCoins": [
+        "ethereum",
+        "internet-computer",
+        "near",
+        "immutable-x"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/prepare-for-next-bull-run-top-5-cryptocurrencies-to-buy-and-hold/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post Prepare for the Next Bull Run, Top 5 Cryptocurrencies to Buy and Hold During the Crypto Flash Crash appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "ETH",
+          "coinPercent": -0.9,
+          "coinTitleKeyWords": "ETH",
+          "coinNameKeyWords": "Ethereum",
+          "coinIdKeyWords": "ethereum"
+        },
+        {
+          "coinKeyWords": "ICP",
+          "coinPercent": -3.62,
+          "coinTitleKeyWords": "ICP",
+          "coinNameKeyWords": "Internet Computer",
+          "coinIdKeyWords": "internet-computer"
+        },
+        {
+          "coinKeyWords": "NEAR",
+          "coinPercent": -1.32,
+          "coinTitleKeyWords": "NEAR",
+          "coinNameKeyWords": "NEAR Protocol",
+          "coinIdKeyWords": "near"
+        }
+      ]
+    },
+    {
+      "id": "00d388e2f6d7174dac0cce12ae8a2e54a5023af8d7c923d60bdc0970acb5f667",
+      "searchKeyWords": [
+        "crypto price predictions",
+        "cryptocurrency trading",
+        "aptos",
+        "price",
+        "prediction",
+        "2024",
+        "–",
+        "2033:",
+        "apt",
+        "token",
+        "bullish",
+        "hopes?"
+      ],
+      "feedDate": 1712305524000,
+      "source": "Cryptopolitan",
+      "title": "Aptos Price Prediction for 2024 – 2033: Will APT Token Hold Bullish Hopes?",
+      "sourceLink": "https://www.cryptopolitan.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.youtube.com/embed/82ESfrV4J6w",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/00d388e2f6d7174dac0cce12ae8a2e54a5023af8d7c923d60bdc0970acb5f667_Aptos-Price-Prediction-for-2024--2033-Will-APT-Token-Hold-Bullish-Hopes",
+      "relatedCoins": [
+        "aptos"
+      ],
+      "content": true,
+      "link": "https://www.cryptopolitan.com/aptos-price-prediction/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Aptos Price Prediction 2024-2033 APTOS is carving its niche in a highly competitive market. The coin came in hot into the market when the mainnet went live. The current bull run has pushed the coin back to its highs after plummeting in mid-2023. Projections are positive. How high will APT go? How much is the [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "APT",
+          "coinPercent": -7.26,
+          "coinTitleKeyWords": "APT",
+          "coinNameKeyWords": "Aptos",
+          "coinIdKeyWords": "aptos"
+        }
+      ]
+    },
+    {
+      "id": "2c57ab63837a3a3539ced6806ecc506b6a8dc5a3130d5f2b38e0b797cc28a587",
+      "searchKeyWords": [
+        "news",
+        "coi leray",
+        "doodles",
+        "doodles nft",
+        "doodles nft sales",
+        "lil wayne",
+        "nft film",
+        "pharrell williams",
+        "project gray",
+        "weezy",
+        "pharrell,",
+        "lil",
+        "wayne,",
+        "and",
+        "coi",
+        "leray",
+        "to",
+        "voice",
+        "characters",
+        "doodles’",
+        "animated",
+        "nft",
+        "film",
+        "ethereum"
+      ],
+      "feedDate": 1712305484000,
+      "source": "Bitcoin.com",
+      "title": "Pharrell, Lil Wayne, and Coi Leray to Voice Characters in Doodles’ Animated NFT Film",
+      "sourceLink": "https://news.bitcoin.com",
+      "isFeatured": false,
+      "imgUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/04/wayne-768x432.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/2c57ab63837a3a3539ced6806ecc506b6a8dc5a3130d5f2b38e0b797cc28a587_Pharrell-Lil-Wayne-and-Coi-Leray-to-Voice-Characters-in-Doodles-Animated-NFT-Film",
+      "relatedCoins": [
+        "ethereum"
+      ],
+      "content": true,
+      "link": "https://news.bitcoin.com/pharrell-lil-wayne-and-coi-leray-to-voice-characters-in-doodles-animated-nft-film/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The team behind the Ethereum non-fungible token (NFT) collectible series Doodles revealed on Thursday its intention to debut an animated movie accompanied by music in the summer of 2024. The project shared that the film will showcase a soundtrack inclusive of three videos and voiceovers from Pharrell Williams, Dwayne &#8216;Lil Wayne&#8217; Carter, and Coi Leray. [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "ETH",
+          "coinPercent": -0.9,
+          "coinTitleKeyWords": "ETH",
+          "coinNameKeyWords": "Ethereum",
+          "coinIdKeyWords": "ethereum"
+        }
+      ]
+    },
+    {
+      "id": "122a3bdf72e0be41c26273735f45661c14dcdd8a60229059bdc6095e86b78469",
+      "searchKeyWords": [
+        "gold and silver",
+        "peter schiff",
+        "renowned",
+        "economist",
+        "peter",
+        "schiff",
+        "warns",
+        "bitcoin",
+        "crash,",
+        "recommends",
+        "gold",
+        "and",
+        "silver"
+      ],
+      "feedDate": 1712305350000,
+      "source": "Cryptopolitan",
+      "title": "Renowned economist Peter Schiff warns of Bitcoin crash, recommends Gold and Silver",
+      "sourceLink": "https://www.cryptopolitan.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.cryptopolitan.com/wp-content/uploads/2024/04/Default_BITCOIN_AND_GOLD_1-1.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/122a3bdf72e0be41c26273735f45661c14dcdd8a60229059bdc6095e86b78469_Renowned-economist-Peter-Schiff-warns-of-Bitcoin-crash-recommends-Gold-and-Silver",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://www.cryptopolitan.com/schiff-warns-recommends-gold-and-silver/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "American economist Peter Schiff, however, still has a disputing view on Bitcoin, which clearly states that what you can get back by selling Bitcoin should be put into gold and silver instead.&#160; Schiff has been a contrarian almost all his life and is known to be skeptical of Bitcoin, which was soaring like a meteor. [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 1.57,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "2062bfb95310110a59b5be86447f5db53da540db8ef37a7956cf33e36641c642",
+      "searchKeyWords": [
+        "hukuk",
+        "90’dan",
+        "fazla",
+        "kripto",
+        "paraya",
+        "erişim",
+        "i̇mkanı",
+        "sunan",
+        "platform",
+        "i̇çin",
+        "filipinler",
+        "sec’den",
+        "kritik",
+        "karar"
+      ],
+      "feedDate": 1712305211000,
+      "source": "COINTURK NEWS",
+      "title": "90’dan Fazla Kripto Paraya Erişim İmkanı Sunan Platform İçin Filipinler SEC’den Kritik Karar",
+      "sourceLink": "https://coin-turk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coin-turk.com/wp-content/uploads/2024/04/hukuk-75.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/2062bfb95310110a59b5be86447f5db53da540db8ef37a7956cf33e36641c642_90dan-Fazla-Kripto-Paraya-Eriim-mkan-Sunan-Platform-in-Filipinler-SECden-Kritik-Karar",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://coin-turk.com/90dan-fazla-kripto-paraya-erisim-imkani-sunan-platform-icin-filipinler-secden-kritik-karar?utm_source%3Drss%26%23038%3Butm_medium%3Drss%26%23038%3Butm_campaign%3D90dan-fazla-kripto-paraya-erisim-imkani-sunan-platform-icin-filipinler-secden-kritik-karar&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Filipinler SEC eToro'nun menkul kıymet satma yetkisi olmadığını söyledi. \r",
+      "coins": []
+    },
+    {
+      "id": "8cab0bdc8124c9beae348fc674003465ed5dac17d92e6f37f8f2cffe0716ab99",
+      "searchKeyWords": [
+        "cryptocurrency",
+        "news",
+        "cardano",
+        "charles hoskinson",
+        "charles",
+        "hoskinson",
+        "slams",
+        "poll",
+        "as",
+        "engineered,",
+        "claims",
+        "(ada)",
+        "always",
+        "wins",
+        "fair",
+        "vote"
+      ],
+      "feedDate": 1712305170000,
+      "source": "Zycrypto",
+      "title": "Charles Hoskinson Slams Poll As Engineered, Claims Cardano (ADA) Always Wins In Fair Vote",
+      "sourceLink": "https://zycrypto.com",
+      "isFeatured": false,
+      "imgUrl": "https://zycrypto.com/wp-content/uploads/2021/07/Charles-Hoskinson-To-Critics-There-Are-Already-Thousands-Of-Assets-Running-On-Cardanob.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/8cab0bdc8124c9beae348fc674003465ed5dac17d92e6f37f8f2cffe0716ab99_Charles-Hoskinson-Slams-Poll-As-Engineered-Claims-Cardano-ADA-Always-Wins-In-Fair-Vote",
+      "relatedCoins": [
+        "cardano"
+      ],
+      "content": true,
+      "link": "https://zycrypto.com/charles-hoskinson-slams-poll-as-engineered-claims-cardano-ada-always-wins-in-fair-vote/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Despite Cardano's second-place finish in the category of “Layer-1 Solution of the Year”, many within the community expressed dissatisfaction with the results.",
+      "coins": [
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": -0.26,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        }
+      ]
+    },
+    {
+      "id": "b264ae8b90866605ffd7d26b912c145252be7c05b2608344df1b1956ff0aed7a",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "ai news",
+        "elon musk news",
+        "grok",
+        "xai",
+        "elon",
+        "musk",
+        "eyes",
+        "eu",
+        "expansion",
+        "amid",
+        "version",
+        "2",
+        "developement"
+      ],
+      "feedDate": 1712304992000,
+      "source": "CoinGape",
+      "title": "Elon Musk Eyes EU Expansion For Grok AI Amid Version 2 Developement",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/04/elon_musk_1.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/b264ae8b90866605ffd7d26b912c145252be7c05b2608344df1b1956ff0aed7a_Elon-Musk-Eyes-EU-Expansion-For-Grok-AI-Amid-Version-2-Developement",
+      "relatedCoins": [
+        "grok-2",
+        "xai-blockchain"
+      ],
+      "content": true,
+      "link": "https://coingape.com/elon-musk-eyes-eu-expansion-for-grok-ai-amid-version-2-developement/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "In a bold move to expand the reach of his artificial intelligence venture, xAI, billionaire Elon Musk has set his sights on the European Union (EU) for the deployment of his chatbot, Grok AI. This comes as Musk earlier revealed the development of the legendary Grok 2, which will be the first-of-its-kind AI chatbot. Elon ",
+      "coins": [
+        {
+          "coinKeyWords": "$GROK",
+          "coinPercent": -3.01,
+          "coinTitleKeyWords": "$GROK",
+          "coinNameKeyWords": "Grok",
+          "coinIdKeyWords": "grok-2"
+        },
+        {
+          "coinKeyWords": "XAI",
+          "coinPercent": -1.79,
+          "coinTitleKeyWords": "XAI",
+          "coinNameKeyWords": "Xai",
+          "coinIdKeyWords": "xai-blockchain"
+        }
+      ]
+    },
+    {
+      "id": "dd0852bcefc6cf985d51688126025182f2d0890ad5ad46d40daa7de9e04b2940",
+      "searchKeyWords": [
+        "hidecryptopanic",
+        "press release",
+        "road",
+        "to",
+        "riches:",
+        "how",
+        "$100",
+        "befe",
+        "could",
+        "catapult",
+        "holder’s",
+        "wealth"
+      ],
+      "feedDate": 1712304936000,
+      "source": "AMBCrypto",
+      "title": "The road to riches: How $100 in BEFE Coin could catapult the holder’s wealth",
+      "sourceLink": "https://ambcrypto.com/",
+      "isFeatured": false,
+      "imgUrl": "https://ambcrypto.com/wp-content/uploads/2024/04/100-in-BEFE-Coin.png",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/dd0852bcefc6cf985d51688126025182f2d0890ad5ad46d40daa7de9e04b2940_The-road-to-riches-How-100-in-BEFE-Coin-could-catapult-the-holders-wealth",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://ambcrypto.com/the-road-to-riches-how-100-in-befe-coin-could-catapult-the-holders-wealth/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Who does not want to make millions in returns on their investments? While traditional assets [&#8230;]",
+      "coins": []
+    },
+    {
+      "id": "85005071b0a00e437da426bd9284504323dcf18bf19ecfaf84299b49fac5f1e2",
+      "searchKeyWords": [
+        "altcoins news",
+        "sticky",
+        "ltc",
+        "litecoin",
+        "regaining",
+        "investor",
+        "confidence,",
+        "mass",
+        "exodus",
+        "to",
+        "algotech",
+        "(algt) "
+      ],
+      "feedDate": 1712304900000,
+      "source": "BlockchainReporter",
+      "title": "Litecoin Regaining Investor Confidence, Mass Investor Exodus to Algotech (ALGT) ",
+      "sourceLink": "blockchainreporter.net",
+      "isFeatured": false,
+      "imgUrl": "https://blockchainreporter.net/wp-content/uploads/2024/04/aaa532132-1-150x150.png",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/85005071b0a00e437da426bd9284504323dcf18bf19ecfaf84299b49fac5f1e2_Litecoin-Regaining-Investor-Confidence-Mass-Investor-Exodus-to-Algotech-ALGT",
+      "relatedCoins": [
+        "litecoin"
+      ],
+      "content": true,
+      "link": "https://blockchainreporter.net/litecoin-regaining-investor-confidence-mass-investor-exodus-to-algotech-algt/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "As Litecoin regains traction and Algotech's presale captivates, investors navigate the choice between proven potential and innovative allure.",
+      "coins": [
+        {
+          "coinKeyWords": "LTC",
+          "coinPercent": -2.47,
+          "coinTitleKeyWords": "LTC",
+          "coinNameKeyWords": "Litecoin",
+          "coinIdKeyWords": "litecoin"
+        }
+      ]
+    },
+    {
+      "id": "22c53daaad6ee37cb0ad4e5bbce5538251a3bf712daf0ea62acffe654917568f",
+      "searchKeyWords": [
+        "journal",
+        "latest news",
+        "elite",
+        "analyst",
+        "shares",
+        "10",
+        "important",
+        "rules",
+        "success",
+        "meme",
+        "trading"
+      ],
+      "feedDate": 1712304900000,
+      "source": "CaptainAltcoin",
+      "title": "Elite Crypto Analyst Shares 10 Important Rules For Success In Meme Coin Trading",
+      "sourceLink": "https://captainaltcoin.com",
+      "isFeatured": false,
+      "imgUrl": "https://captainaltcoin.com/wp-content/uploads/2024/03/image-1016-300x175.png",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/22c53daaad6ee37cb0ad4e5bbce5538251a3bf712daf0ea62acffe654917568f_Elite-Crypto-Analyst-Shares-10-Important-Rules-For-Success-In-Meme-Coin-Trading",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://captainaltcoin.com/elite-crypto-analyst-shares-10-important-rules-for-success-in-meme-coin-trading/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Meme coins have emerged as a lucrative opportunity for savvy traders. With the potential to generate returns of up to 1000x, it&#8217;s no surprise that many investors are eager to learn the secrets behind successful meme coin trading. Analyst Cyclop shared the 10 rules for success in the meme coin industry. The 7 Rules for",
+      "coins": []
+    },
+    {
+      "id": "690f3cab86005d99c709ffb687323b0765ab7910b2539403cfb551529afce054",
+      "searchKeyWords": [
+        "press release",
+        "predicted",
+        "to",
+        "make",
+        "millionaire",
+        "2024:",
+        "hint,",
+        "it’s",
+        "not",
+        "solana",
+        "(sol)",
+        "or",
+        "cardano",
+        "(ada)"
+      ],
+      "feedDate": 1712304892000,
+      "source": "Coinpedia",
+      "title": "The Crypto Predicted To Make You A Millionaire In 2024: Hint, It’s Not Solana (SOL) or Cardano (ADA)",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/02/26112332/pullix-9-1024x536.webp",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/690f3cab86005d99c709ffb687323b0765ab7910b2539403cfb551529afce054_The-Crypto-Predicted-To-Make-You-A-Millionaire-In-2024-Hint-Its-Not-Solana-SOL-or-Cardano-ADA",
+      "relatedCoins": [
+        "solana",
+        "cardano"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/the-crypto-predicted-to-make-you-a-millionaire-in-2024/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post The Crypto Predicted To Make You A Millionaire In 2024: Hint, It&#8217;s Not Solana (SOL) or Cardano (ADA) appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "SOL",
+          "coinPercent": -5.08,
+          "coinTitleKeyWords": "SOL",
+          "coinNameKeyWords": "Solana",
+          "coinIdKeyWords": "solana"
+        },
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": -0.26,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        }
+      ]
+    },
+    {
+      "id": "328bdd1eccde48e9beb6f5c8202108fd8f877e91bc69dcc2ec7d4f32c165d180",
+      "searchKeyWords": [
+        "press release",
+        "predicted",
+        "to",
+        "make",
+        "millionaire",
+        "2024:",
+        "hint,",
+        "it’s",
+        "not",
+        "solana",
+        "(sol)",
+        "or",
+        "cardano",
+        "(ada)"
+      ],
+      "feedDate": 1712304892000,
+      "source": "Coinpedia",
+      "title": "The Crypto Predicted To Make You A Millionaire In 2024: Hint, It’s Not Solana (SOL) or Cardano (ADA)",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/02/26112332/pullix-9-1024x536.webp",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/328bdd1eccde48e9beb6f5c8202108fd8f877e91bc69dcc2ec7d4f32c165d180_The-Crypto-Predicted-To-Make-You-A-Millionaire-In-2024-Hint-Its-Not-Solana-SOL-or-Cardano-ADA",
+      "relatedCoins": [
+        "solana",
+        "cardano"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/the-crypto-predicted-to-make-you-a-millionaire-in-2024/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post The Crypto Predicted To Make You A Millionaire In 2024: Hint, It&#8217;s Not Solana (SOL) or Cardano (ADA) appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "SOL",
+          "coinPercent": -5.08,
+          "coinTitleKeyWords": "SOL",
+          "coinNameKeyWords": "Solana",
+          "coinIdKeyWords": "solana"
+        },
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": -0.26,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        }
+      ]
+    },
+    {
+      "id": "ba001132148c9de7fcf47cd4b9cb9c1cddc9b23f2d9ee0407aa3cff6a140ad0f",
+      "searchKeyWords": [
+        "bitcoin",
+        "miner",
+        "hut",
+        "8",
+        "has",
+        "larger,",
+        "diversified",
+        "business",
+        "model",
+        "following",
+        "usbtc",
+        "merger:",
+        "canaccord"
+      ],
+      "feedDate": 1712304761000,
+      "source": "CoinDesk",
+      "title": "Bitcoin Miner Hut 8 Has Larger, More Diversified Business Model Following USBTC Merger: Canaccord",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/JbqjSppDQM3qCfDEWTrSRb82rcY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6MLZZPD2MNDSTGZKKSQCE2EC2A.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ba001132148c9de7fcf47cd4b9cb9c1cddc9b23f2d9ee0407aa3cff6a140ad0f_Bitcoin-Miner-Hut-8-Has-Larger-More-Diversified-Business-Model-Following-USBTC-Merger-Canaccord",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/markets/2024/04/05/bitcoin-miner-hut-8-has-larger-more-diversified-business-model-following-usbtc-merger-canaccord/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The broker cut its price target to $14 from $17.50 while maintaining its buy rating.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 1.57,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "bd10a423cd182bb5a04cc02ce19b1fa946d0f9c9dcaedf9013544839be075333",
+      "searchKeyWords": [
+        "altcoin",
+        "south",
+        "korea",
+        "increases",
+        "security",
+        "measures",
+        "cryptocurrency",
+        "exchange",
+        "listings",
+        "verge"
+      ],
+      "feedDate": 1712304659000,
+      "source": "BH NEWS",
+      "title": "South Korea Increases Security Measures for Cryptocurrency Exchange Listings",
+      "sourceLink": "https://en.bitcoinhaber.net",
+      "isFeatured": false,
+      "imgUrl": "https://en.bitcoinhaber.net/wp-content/uploads/2024/04/altcoin-002.jpg",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/bd10a423cd182bb5a04cc02ce19b1fa946d0f9c9dcaedf9013544839be075333_South-Korea-Increases-Security-Measures-for-Cryptocurrency-Exchange-Listings",
+      "relatedCoins": [
+        "verge"
+      ],
+      "content": true,
+      "link": "https://en.bitcoinhaber.net/south-korea-increases-security-measures-for-cryptocurrency-exchange-listings?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "In an effort to bolster the security and transparency of its burgeoning cryptocurrency market, South Korea is on the verge of enforcing more stringent regulations on altcoin listings within centralized exchanges. The new regulatory framework, set to be unveiled by the end of the current month, aims to prevent altcoins with unresolved security concerns from [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "XVG",
+          "coinPercent": -15.78,
+          "coinTitleKeyWords": "XVG",
+          "coinNameKeyWords": "Verge",
+          "coinIdKeyWords": "verge"
+        }
+      ]
+    },
+    {
+      "id": "6d769bdc827e76298624118e387f5a6addd2d841605ece269040dae1378ae84d",
+      "searchKeyWords": [
+        "press release",
+        "egrag",
+        "has",
+        "shocking",
+        "xrp",
+        "price",
+        "prediction,",
+        "jupiter",
+        "and",
+        "kangamoon",
+        "dominate",
+        "altcoin",
+        "space"
+      ],
+      "feedDate": 1712304653000,
+      "source": "Coinpedia",
+      "title": "EGRAG CRYPTO Has Shocking XRP Price Prediction, Jupiter and KangaMoon Dominate the Altcoin Space",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/02/10124045/xrp-1-1024x536.webp",
+      "reactionsCount": {},
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/6d769bdc827e76298624118e387f5a6addd2d841605ece269040dae1378ae84d_EGRAG-CRYPTO-Has-Shocking-XRP-Price-Prediction-Jupiter-and-KangaMoon-Dominate-the-Altcoin-Space",
+      "relatedCoins": [
+        "ripple",
+        "jupiter-exchange-solana"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/egrag-crypto-xrp-price-prediction-jupiter-kangamoon-dominate-altcoin-space/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post EGRAG CRYPTO Has Shocking XRP Price Prediction, Jupiter and KangaMoon Dominate the Altcoin Space appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 1.57,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        },
+        {
+          "coinKeyWords": "JUP",
+          "coinPercent": -12.99,
+          "coinTitleKeyWords": "JUP",
+          "coinNameKeyWords": "Jupiter",
+          "coinIdKeyWords": "jupiter-exchange-solana"
+        }
+      ]
+    }
+  ]
+}
+
+export const cryptoTrendingNews = {
+  result: [
+    {
+      "id": "6a7cbe852f6f923b0342d2b2a727b6f73e5f81066f19d22e0e8b416b1d0c36ca",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "crypto market",
+        "how",
+        "is",
+        "market",
+        "doing",
+        "today?"
+      ],
+      "feedDate": 1712311284000,
+      "source": "CoinGape",
+      "title": "How Is the Crypto Market Doing Today?",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/04/Crypto-Market_erjnv.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/6a7cbe852f6f923b0342d2b2a727b6f73e5f81066f19d22e0e8b416b1d0c36ca_How-Is-the-Crypto-Market-Doing-Today",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://coingape.com/trending/how-is-the-crypto-market-doing-today/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "After a good month, the crypto market has faced a few setbacks where the majority of cryptocurrencies lost their weeks of gains. As for today, the market seems to be recovering and moving towards new elevations. In this blog, let us discuss what the crypto market is doing today. Crypto Market Performance Today The global ",
+      "coins": []
+    },
+    {
+      "id": "f61e84e8d8825c07d4746d6d21218b0b22a0b0893fc063c3fcfc6ab8a45baac8",
+      "searchKeyWords": [
+        "actualité des altcoins",
+        "airdrop",
+        "hack",
+        "wormhole",
+        "de",
+        ":",
+        "le",
+        "hacker",
+        "été",
+        "éligible",
+        "pour",
+        "recevoir",
+        "38",
+        "000",
+        "dollars",
+        "en",
+        "tokens",
+        "w"
+      ],
+      "feedDate": 1712311230000,
+      "source": "Cryptoast.fr",
+      "title": "Airdrop de Wormhole : le hacker a été éligible pour recevoir 38 000 dollars en tokens de W",
+      "sourceLink": "https://cryptoast.fr/",
+      "isFeatured": false,
+      "imgUrl": "https://static.coinstats.app/news/source/undefined",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/f61e84e8d8825c07d4746d6d21218b0b22a0b0893fc063c3fcfc6ab8a45baac8_Airdrop-de-Wormhole--le-hacker-a-t-ligible-pour-recevoir-38-000-dollars-en-tokens-de-W",
+      "relatedCoins": [
+        "wormhole"
+      ],
+      "content": true,
+      "link": "https://cryptoast.fr/airdrop-wormhole-hacker-eligible-tokens-w/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Un destinataire de l’airdrop dont Wormhole se serait bien passé… Le hacker du protocole, qui était reparti avec des centaines de millions de dollars, a temporairement été éligible à l’airdrop de W. Que s’est-il passé ?",
+      "coins": [
+        {
+          "coinKeyWords": "W",
+          "coinPercent": -15.37,
+          "coinTitleKeyWords": "W",
+          "coinNameKeyWords": "Wormhole",
+          "coinIdKeyWords": "wormhole"
+        }
+      ]
+    },
+    {
+      "id": "48f1ccc62a68ff5fbb3d077f761c07e039b0fb92d9013d2b095a63d21fa87034",
+      "searchKeyWords": [
+        "solana (sol)",
+        "dev",
+        "altcoin’de",
+        "büyük",
+        "hayal",
+        "kırıklığı!",
+        "başarısızlık",
+        "yüzde",
+        "75’e",
+        "kadar",
+        "çıktı!",
+        "solana",
+        "memecoin"
+      ],
+      "feedDate": 1712311222000,
+      "source": "COINTURK NEWS",
+      "title": "Dev Altcoin’de Büyük Hayal Kırıklığı! Başarısızlık Yüzde 75’e Kadar Çıktı!",
+      "sourceLink": "https://coin-turk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coin-turk.com/wp-content/uploads/2024/04/altcoin-156.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/48f1ccc62a68ff5fbb3d077f761c07e039b0fb92d9013d2b095a63d21fa87034_Dev-Altcoinde-Byk-Hayal-Krkl-Baarszlk-Yzde-75e-Kadar-kt",
+      "relatedCoins": [
+        "solana",
+        "memecoin-2"
+      ],
+      "content": true,
+      "link": "https://coin-turk.com/altcoin-hayal-kirikligi-basarisizlik-yuzde-75-cikti?utm_source%3Drss%26%23038%3Butm_medium%3Drss%26%23038%3Butm_campaign%3Daltcoin-hayal-kirikligi-basarisizlik-yuzde-75-cikti&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Solana ağı, ağ üzerindeki memecoin'lere talebin artmasıyla başa çıkmaya çalışırken başarısız işlem sayının yüksek olduğu bir dönemden geçiyor.\r",
+      "coins": [
+        {
+          "coinKeyWords": "SOL",
+          "coinPercent": -7.26,
+          "coinTitleKeyWords": "SOL",
+          "coinNameKeyWords": "Solana",
+          "coinIdKeyWords": "solana"
+        },
+        {
+          "coinKeyWords": "MEME",
+          "coinPercent": -5.2,
+          "coinTitleKeyWords": "MEME",
+          "coinNameKeyWords": "Memecoin",
+          "coinIdKeyWords": "memecoin-2"
+        }
+      ]
+    },
+    {
+      "id": "9693264014dee6391ff7f54282841155c5fe50b3176ea7f05b8f215c1d689d72",
+      "searchKeyWords": [
+        "altcoin",
+        "news",
+        "news 1",
+        "social",
+        "solana",
+        "trading view",
+        "ambcrypto",
+        "featured",
+        "solana’s",
+        "crisis:",
+        "checking",
+        "why",
+        "75%",
+        "user",
+        "txns.",
+        "are",
+        "failing",
+        "memecoin"
+      ],
+      "feedDate": 1712311219000,
+      "source": "AMBCrypto",
+      "title": "Solana’s crisis: Checking why 75% of user txns. are failing",
+      "sourceLink": "https://ambcrypto.com/",
+      "isFeatured": false,
+      "imgUrl": "https://ambcrypto.com/wp-content/uploads/2024/04/solana-network-struggling.webp",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/9693264014dee6391ff7f54282841155c5fe50b3176ea7f05b8f215c1d689d72_Solanas-crisis-Checking-why-75-of-user-txns.-are-failing",
+      "relatedCoins": [
+        "solana",
+        "memecoin-2"
+      ],
+      "content": true,
+      "link": "https://ambcrypto.com/solanas-crisis-checking-why-75-of-user-transactions-are-failing/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Solana has been experiencing high network utilization lately due to memecoin frenzy.",
+      "coins": [
+        {
+          "coinKeyWords": "SOL",
+          "coinPercent": -7.26,
+          "coinTitleKeyWords": "SOL",
+          "coinNameKeyWords": "Solana",
+          "coinIdKeyWords": "solana"
+        },
+        {
+          "coinKeyWords": "MEME",
+          "coinPercent": -5.2,
+          "coinTitleKeyWords": "MEME",
+          "coinNameKeyWords": "Memecoin",
+          "coinIdKeyWords": "memecoin-2"
+        }
+      ]
+    },
+    {
+      "id": "f0830c2b46999e1826e6b9341441f727141ac684165079e055a8bc1de79fb705",
+      "searchKeyWords": [
+        "blockchain news",
+        "bybit",
+        "leads",
+        "way",
+        "transparency",
+        "with",
+        "record",
+        "proof-of-reserves",
+        "audit"
+      ],
+      "feedDate": 1712311216000,
+      "source": "BlockchainReporter",
+      "title": "Bybit Leads the Way in Crypto Transparency with Record Proof-of-Reserves Audit",
+      "sourceLink": "blockchainreporter.net",
+      "isFeatured": false,
+      "imgUrl": "https://blockchainreporter.net/wp-content/uploads/2024/02/bybit-crown-150x150.webp",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/f0830c2b46999e1826e6b9341441f727141ac684165079e055a8bc1de79fb705_Bybit-Leads-the-Way-in-Crypto-Transparency-with-Record-ProofofReserves-Audit",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://blockchainreporter.net/bybit-leads-the-way-in-crypto-transparency-with-record-proof-of-reserves-audit/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Bybit, the world's third-largest crypto exchange by trading volume, verifies 40 crypto tokens, setting an industry record for transparency and security.",
+      "coins": []
+    },
+    {
+      "id": "4a5ac09b0710594e8ffdcff83d28fb1e308a938b5b69c47d07353fc120cb0158",
+      "searchKeyWords": [
+        "technology",
+        "trading",
+        "solana",
+        "trading bots",
+        "scrambles",
+        "to",
+        "tackle",
+        "failed",
+        "transaction",
+        "surge",
+        "and",
+        "user",
+        "complaints"
+      ],
+      "feedDate": 1712311166000,
+      "source": "CryptoSlate",
+      "title": "Solana scrambles to tackle failed transaction surge and user complaints",
+      "sourceLink": "https://cryptoslate.com/",
+      "isFeatured": false,
+      "imgUrl": "https://cryptoslate.com/wp-content/uploads/2024/04/solana-transaction.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/4a5ac09b0710594e8ffdcff83d28fb1e308a938b5b69c47d07353fc120cb0158_Solana-scrambles-to-tackle-failed-transaction-surge-and-user-complaints",
+      "relatedCoins": [
+        "solana"
+      ],
+      "content": true,
+      "link": "https://cryptoslate.com/solana-scrambles-to-tackle-failed-transaction-surge-and-user-complaints/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Solana is working &#8220;around the clock&#8221; to fix its current issues, which include the proliferation of failed transactions on the network. In an April 4 tweet on X, Raj Gokal, the network&#8217;s co-founder, revealed that the network was working to improve users&#8217; transaction experience. He said: &#8220;World class engineering teams are working around the clock [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "SOL",
+          "coinPercent": -7.26,
+          "coinTitleKeyWords": "SOL",
+          "coinNameKeyWords": "Solana",
+          "coinIdKeyWords": "solana"
+        }
+      ]
+    },
+    {
+      "id": "7c2b8623c297ef635956ac78b2b4c3fcb11b56a5303e0f77edad8beeb7e3adde",
+      "searchKeyWords": [
+        "press release",
+        "breaking",
+        "news:",
+        "bitgert",
+        "price",
+        "set",
+        "to",
+        "explode",
+        "–",
+        "here’s",
+        "your",
+        "profit",
+        "potential"
+      ],
+      "feedDate": 1712310997000,
+      "source": "Coinpedia",
+      "title": "Breaking News: Bitgert Price Set to Explode – Here’s Your Profit Potential",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/04/05152548/bitgert-1024x536.webp",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/7c2b8623c297ef635956ac78b2b4c3fcb11b56a5303e0f77edad8beeb7e3adde_Breaking-News-Bitgert-Price-Set-to-Explode--Heres-Your-Profit-Potential",
+      "relatedCoins": [
+        "bitrise-token"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/breaking-news-bitgert-price-set-to-explode-heres-your-profit-potential/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post Breaking News: Bitgert Price Set to Explode &#8211; Here&#8217;s Your Profit Potential appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "BRISE",
+          "coinPercent": -1.97,
+          "coinTitleKeyWords": "BRISE",
+          "coinNameKeyWords": "Bitgert",
+          "coinIdKeyWords": "bitrise-token"
+        }
+      ]
+    },
+    {
+      "id": "851b0307063e44be028c13648c7a3a372c3ebdf9d251631400d8695c4f3d10d2",
+      "searchKeyWords": [
+        "innovators",
+        "youtube",
+        "ceo",
+        "accuses",
+        "openai",
+        "potential",
+        "terms",
+        "service",
+        "violation"
+      ],
+      "feedDate": 1712310835000,
+      "source": "Cryptopolitan",
+      "title": "YouTube CEO Accuses OpenAI of Potential Terms of Service Violation",
+      "sourceLink": "https://www.cryptopolitan.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.cryptopolitan.com/wp-content/uploads/2024/04/Default_YouTube_terms_of_services_1.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/851b0307063e44be028c13648c7a3a372c3ebdf9d251631400d8695c4f3d10d2_YouTube-CEO-Accuses-OpenAI-of-Potential-Terms-of-Service-Violation",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://www.cryptopolitan.com/youtube-accuses-openai-of-potential-terms/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The joint efforts of YouTube Board Chairman Neal Mohan and OpenAI demonstrated the extent or scope of AI-based innovation. This resulted in an intellectual debate over the case of Serena Williams, with Wikipedia assuming the agenda for the case. He underscored that acquiring traffic is one of OpenAI&#8217;s digital marketing pillars. Also, content creators with [&#8230;]",
+      "coins": []
+    },
+    {
+      "id": "6eecfdfe1438da68b53c289b1da50606bb3cd1e74e54bb7d3de251079a1ec0e9",
+      "searchKeyWords": [
+        "press release",
+        "lowdown:",
+        "how",
+        "investing",
+        "$100",
+        "befe",
+        "could",
+        "turn",
+        "into",
+        "significant",
+        "gains"
+      ],
+      "feedDate": 1712310699000,
+      "source": "Coinpedia",
+      "title": "The Lowdown: How Investing $100 in BEFE Coin Could Turn Into Significant Gains",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/04/05152056/befe-1-1024x536.webp",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/6eecfdfe1438da68b53c289b1da50606bb3cd1e74e54bb7d3de251079a1ec0e9_The-Lowdown-How-Investing-100-in-BEFE-Coin-Could-Turn-Into-Significant-Gains",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/the-lowdown-how-investing-100-in-befe-coin-could-turn-into-significant-gains/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post The Lowdown: How Investing $100 in BEFE Coin Could Turn Into Significant Gains appeared first on Coinpedia Fintech News",
+      "coins": []
+    },
+    {
+      "id": "e5f0778754731823e306a6f61e68d2a4c3c4619f82986d3b6d3bcb0b2c24de83",
+      "searchKeyWords": [
+        "cryptocurrency",
+        "march",
+        "sees",
+        "surge",
+        "trading",
+        "with",
+        "record",
+        "$9.12",
+        "trillion",
+        "volume"
+      ],
+      "feedDate": 1712310646000,
+      "source": "BH NEWS",
+      "title": "March Sees Surge in Crypto Trading with Record $9.12 Trillion Volume",
+      "sourceLink": "https://en.bitcoinhaber.net",
+      "isFeatured": false,
+      "imgUrl": "https://en.bitcoinhaber.net/wp-content/uploads/2024/04/cryptocurrency-107-1.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/e5f0778754731823e306a6f61e68d2a4c3c4619f82986d3b6d3bcb0b2c24de83_March-Sees-Surge-in-Crypto-Trading-with-Record-9.12-Trillion-Volume",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://en.bitcoinhaber.net/march-sees-surge-in-crypto-trading-with-record-9-12-trillion-volume?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The crypto market experienced a remarkable boost in March, with a historic $6.18 trillion in derivatives trading, representing an 86.5% leap from previous months. Despite this significant rise, derivatives&#8217; share in the overall market activity fell for the sixth month in a row, as per insights from CCData, a London-based digital asset data provider.",
+      "coins": []
+    },
+    {
+      "id": "a4f03beb4ec9d7977cd19deeb46bb7716318197bb748bf487ad4e20b29833f58",
+      "searchKeyWords": [
+        "binance",
+        "introduces",
+        "mandatory",
+        "verification",
+        "enhanced",
+        "security"
+      ],
+      "feedDate": 1712310616000,
+      "source": "BH NEWS",
+      "title": "Binance Introduces Mandatory Verification for Enhanced Security",
+      "sourceLink": "https://en.bitcoinhaber.net",
+      "isFeatured": false,
+      "imgUrl": "https://en.bitcoinhaber.net/wp-content/uploads/2024/04/binance-coin-040.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/a4f03beb4ec9d7977cd19deeb46bb7716318197bb748bf487ad4e20b29833f58_Binance-Introduces-Mandatory-Verification-for-Enhanced-Security",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://en.bitcoinhaber.net/binance-introduces-mandatory-verification-for-enhanced-security?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Cryptocurrency behemoth Binance has recently updated its client verification guidelines, stipulating that all sub-account users partaking in the Binance Link program will now be required to complete full Know Your Customer (KYC) procedures. Starting April 20th, Binance will impose restrictions on unverified sub-accounts, denying access to deposit functions unless they comply with the new regulations. [&#8230;]",
+      "coins": []
+    },
+    {
+      "id": "03b98beec54ceab621273ce398cc3718800b966a3bed3f2c5dfdca479693a242",
+      "searchKeyWords": [
+        "news",
+        "bitcoin",
+        "price",
+        "rebounds",
+        "above",
+        "$67k",
+        "fueled",
+        "by",
+        "heighted",
+        "demand",
+        "amid",
+        "incoming",
+        "halving",
+        "event",
+        "higher"
+      ],
+      "feedDate": 1712310590000,
+      "source": "Coinpedia",
+      "title": "Bitcoin Price Rebounds Above $67k Fueled by Heighted Demand Amid Incoming Halving Event",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/04/02133739/Top-3-Reasons-Why-Bitcoin-BTC-Price-Dropped-Below-66K-1024x536.webp",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/03b98beec54ceab621273ce398cc3718800b966a3bed3f2c5dfdca479693a242_Bitcoin-Price-Rebounds-Above-67k-Fueled-by-Heighted-Demand-Amid-Incoming-Halving-Event",
+      "relatedCoins": [
+        "bitcoin",
+        "0x0578d8a44db98b23bf096a382e016e29a5ce0ffe_base"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/news/bitcoin-price-rebounds-above-67k-fueled-by-heighted-demand-amid-incoming-halving-event/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post Bitcoin Price Rebounds Above $67k Fueled by Heighted Demand Amid Incoming Halving Event appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.84,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "HIGHER",
+          "coinPercent": -33.48,
+          "coinTitleKeyWords": "HIGHER",
+          "coinNameKeyWords": "higher",
+          "coinIdKeyWords": "0x0578d8a44db98b23bf096a382e016e29a5ce0ffe_base"
+        }
+      ]
+    },
+    {
+      "id": "0a3266cb3f818de44675cf771d208e3b38a267414782110916f25e77894b924a",
+      "searchKeyWords": [
+        "binance",
+        "demands",
+        "user",
+        "verification",
+        "sub-accounts"
+      ],
+      "feedDate": 1712310553000,
+      "source": "COINTURK NEWS",
+      "title": "Binance Demands User Verification for Sub-Accounts",
+      "sourceLink": "https://en.coin-turk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://en.coin-turk.com/wp-content/uploads/2024/04/binance-01.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/0a3266cb3f818de44675cf771d208e3b38a267414782110916f25e77894b924a_Binance-Demands-User-Verification-for-SubAccounts",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://en.coin-turk.com/binance-demands-user-verification-for-sub-accounts/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Binance announces stricter KYC measures for users. Unverified users lose access to Binance Link sub-accounts.",
+      "coins": []
+    },
+    {
+      "id": "b972fa4b787a7e84a4a01d65f87c47c8c124d96ca546032b41b09edd485a13b2",
+      "searchKeyWords": [
+        "news",
+        "brad garlinghouse",
+        "ripple (xrp)",
+        "stablecoin",
+        "xrp news",
+        "community",
+        "divided",
+        "over",
+        "ripple’s",
+        "plan",
+        "to",
+        "introduce",
+        "ethereum",
+        "xrp"
+      ],
+      "feedDate": 1712310508000,
+      "source": "CoinEdition",
+      "title": "Crypto Community Divided Over Ripple’s Plan to Introduce Stablecoin",
+      "sourceLink": "https://coinedition.com",
+      "isFeatured": false,
+      "imgUrl": "https://coinedition.com/wp-content/uploads/2024/04/image1-7.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/b972fa4b787a7e84a4a01d65f87c47c8c124d96ca546032b41b09edd485a13b2_Crypto-Community-Divided-Over-Ripples-Plan-to-Introduce-Stablecoin",
+      "relatedCoins": [
+        "ethereum",
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://coinedition.com/crypto-community-divided-over-ripples-plan-to-introduce-stablecoin/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Famous Attorney and key figure in the digital asset world, Bill Morgan, has publicly questioned Ripple CEO Brad&#160; Garlinghouse&#8217;s announcement regarding the company&#8217;s forthcoming stablecoin launch. Yesterday, Ripple had announced its intention to introduce a stablecoin pegged 1:1 to the USD, to be hosted on the XRP Ledger and Ethereum. The decision came in response [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "ETH",
+          "coinPercent": -1.87,
+          "coinTitleKeyWords": "ETH",
+          "coinNameKeyWords": "Ethereum",
+          "coinIdKeyWords": "ethereum"
+        },
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 0.04,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "a3eeafe406108f55c92e922961a75e5a59ddd148324c869a57d562a8283b21b4",
+      "searchKeyWords": [
+        "press release",
+        "meme",
+        "rise",
+        "sets",
+        "stage",
+        "raboo",
+        "($rabt)",
+        "and",
+        "gorilla:",
+        "investors",
+        "eye",
+        "potential",
+        "100x",
+        "gains"
+      ],
+      "feedDate": 1712310371000,
+      "source": "Coinpedia",
+      "title": "Meme Coin Rise Sets Stage for Raboo ($RABT) and Gorilla: Investors Eye Potential 100x Gains",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/04/05151427/raboo-4-1024x536.webp",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/a3eeafe406108f55c92e922961a75e5a59ddd148324c869a57d562a8283b21b4_Meme-Coin-Rise-Sets-Stage-for-Raboo-RABT-and-Gorilla-Investors-Eye-Potential-100x-Gains",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/meme-coin-rise-sets-stage-for-raboo-and-gorilla/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post Meme Coin Rise Sets Stage for Raboo ($RABT) and Gorilla: Investors Eye Potential 100x Gains appeared first on Coinpedia Fintech News",
+      "coins": []
+    },
+    {
+      "id": "1e9269685bdd7c97d56b49024535b8b18f9281fb0b8ef3d276082a3ea12521b6",
+      "searchKeyWords": [
+        "news bytes",
+        "ark invest ceo cathie wood",
+        "bitcoin",
+        "bitcoin spot etfs",
+        "cryptocurrency",
+        "grayscale bitcoin trust (gbtc)",
+        "grayscale’s",
+        "etf",
+        "outflows",
+        "surpassed",
+        "first",
+        "ark"
+      ],
+      "feedDate": 1712126632000,
+      "source": "Bitcoin.com",
+      "title": "Grayscale’s Bitcoin ETF Outflows Surpassed for the First Time",
+      "sourceLink": "https://news.bitcoin.com",
+      "isFeatured": false,
+      "imgUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/04/10_news_bytes-768x432.jpg",
+      "reactionsCount": {
+        "2": 2,
+        "3": 2
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/1e9269685bdd7c97d56b49024535b8b18f9281fb0b8ef3d276082a3ea12521b6_Grayscales-Bitcoin-ETF-Outflows-Surpassed-for-the-First-Time",
+      "relatedCoins": [
+        "bitcoin",
+        "ark"
+      ],
+      "content": true,
+      "link": "https://news.bitcoin.com/grayscales-bitcoin-etf-outflows-surpassed-for-the-first-time/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Cathie Wood&#x2019;s ARK 21shares Bitcoin ETF experienced a daily outflow of $87.5 million on April 2, marking a historic event as it exceeded Grayscale&#x2019;s Bitcoin Trust&#x2019;s outflow for the first time since the introduction of spot bitcoin ETFs in the U.S. Despite this outflow and a preceding day&#x2019;s loss, ARKB remains the third-largest among the [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.84,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "ARK",
+          "coinPercent": -1.64,
+          "coinTitleKeyWords": "ARK",
+          "coinNameKeyWords": "ARK",
+          "coinIdKeyWords": "ark"
+        }
+      ]
+    },
+    {
+      "id": "432d55d017053d78a7e09278e4e4a3d713eb42aedb1f5fca9249a614d9eb4b3f",
+      "searchKeyWords": [
+        "sponsorlu makale",
+        "portföyünüzü",
+        "10",
+        "katına",
+        "çıkarabileceği",
+        "i̇ddia",
+        "edilen",
+        "3",
+        "merkezi",
+        "olmayan",
+        "finans",
+        "tokeni  "
+      ],
+      "feedDate": 1712310360000,
+      "source": "COINTURK NEWS",
+      "title": "Portföyünüzü 10 Katına Çıkarabileceği İddia Edilen 3 Merkezi Olmayan Finans Tokeni  ",
+      "sourceLink": "https://coin-turk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coin-turk.com/wp-content/uploads/2024/04/portfoyunuzu-10-katina-cikarabilecegi-iddia-edilen-3-merkezi-olmayan-finans-tokeni.png",
+      "reactionsCount": {
+        "2": 1,
+        "3": 0
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/432d55d017053d78a7e09278e4e4a3d713eb42aedb1f5fca9249a614d9eb4b3f_Portfynz-10-Katna-karabilecei-ddia-Edilen-3-Merkezi-Olmayan-Finans-Tokeni",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://coin-turk.com/portfoyunuzu-10-katina-cikarabilecegi-iddia-edilen-3-merkezi-olmayan-finans-tokeni?utm_source%3Drss%26%23038%3Butm_medium%3Drss%26%23038%3Butm_campaign%3Dportfoyunuzu-10-katina-cikarabilecegi-iddia-edilen-3-merkezi-olmayan-finans-tokeni&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Sorumluluk Reddi: Bu makale sponsorlu bir yazıdır. COINTURK, bu makale içeriğinde geçen herhangi bir ürün ya da hizmetle ilgili hasar ya da kayıplardan sorumlu değildir ve sorumlu tutulamaz. COINTURK, bu sponsorlu yazıda adı geçen şirket ve şirketin sunduğu ürün veya hizmetlerle ilgili olarak okuyucuların kendi araştırmalarını özenle yapmalarını şiddetle önermektedir. Yatırımcılar sürekli olarak merkeziyetsiz finans [&#8230;]",
+      "coins": []
+    },
+    {
+      "id": "7a564fd8ecb04dcde489b56e704993de6a433514b45449200e9ed73f022ed6c8",
+      "searchKeyWords": [
+        "binance",
+        "kullanıcıları",
+        "i̇çin",
+        "kritik",
+        "adım",
+        "attı!",
+        "hesap",
+        "erişimi",
+        "uyarısı"
+      ],
+      "feedDate": 1712310360000,
+      "source": "COINTURK NEWS",
+      "title": "Binance Kullanıcıları İçin Kritik Adım Attı! Hesap Erişimi Uyarısı",
+      "sourceLink": "https://coin-turk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coin-turk.com/wp-content/uploads/2024/04/binance-coin-122.jpg",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/7a564fd8ecb04dcde489b56e704993de6a433514b45449200e9ed73f022ed6c8_Binance-Kullanclar-in-Kritik-Adm-Att-Hesap-Eriimi-Uyars",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://coin-turk.com/binance-kullanicilari-icin-kritik-adim-atti-hesap-erisimi-uyarisi?utm_source%3Drss%26%23038%3Butm_medium%3Drss%26%23038%3Butm_campaign%3Dbinance-kullanicilari-icin-kritik-adim-atti-hesap-erisimi-uyarisi&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Binance bugün önemli bir duyuru yaptı.\r",
+      "coins": []
+    },
+    {
+      "id": "80b905fa546768676f935a94d80b80dda8c6ad1fdee8168e1d60c01cc694b227",
+      "searchKeyWords": [
+        "nft news",
+        "blockchain news",
+        "nft",
+        "mazda",
+        "debuts",
+        "unique",
+        "nfts",
+        "astar’s",
+        "zkevm",
+        "launch",
+        "campaign",
+        "“yoki",
+        "origins”",
+        "astar",
+        "mx"
+      ],
+      "feedDate": 1712310060000,
+      "source": "BlockchainReporter",
+      "title": "Mazda Debuts Unique NFTs on Astar’s zkEVM Launch Campaign “Yoki Origins”",
+      "sourceLink": "blockchainreporter.net",
+      "isFeatured": false,
+      "imgUrl": "https://blockchainreporter.net/wp-content/uploads/2024/04/mazda-bluepurple-150x150.webp",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/80b905fa546768676f935a94d80b80dda8c6ad1fdee8168e1d60c01cc694b227_Mazda-Debuts-Unique-NFTs-on-Astars-zkEVM-Launch-Campaign-Yoki-Origins",
+      "relatedCoins": [
+        "astar",
+        "mx-token"
+      ],
+      "content": true,
+      "link": "https://blockchainreporter.net/mazda-debuts-unique-nfts-on-astars-zkevm-launch-campaign-yoki-origins/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Mazda collaborates with Astar Network for the \"Yoki Origins\" zkEVM campaign launch, unveiling a unique NFT collection featuring the iconic MX-5 MIATA.",
+      "coins": [
+        {
+          "coinKeyWords": "ASTR",
+          "coinPercent": 0,
+          "coinTitleKeyWords": "ASTR",
+          "coinNameKeyWords": "Astar",
+          "coinIdKeyWords": "astar"
+        },
+        {
+          "coinKeyWords": "MX",
+          "coinPercent": -0.12,
+          "coinTitleKeyWords": "MX",
+          "coinNameKeyWords": "MX",
+          "coinIdKeyWords": "mx-token"
+        }
+      ]
+    },
+    {
+      "id": "876ed88888cff9f4a0f26d9e187450c2b65dcf64c038cdab17af30608269b252",
+      "searchKeyWords": [
+        "press release",
+        "could",
+        "bitbot’s",
+        "presale",
+        "passing",
+        "$1.8m",
+        "trigger",
+        "telegram",
+        "trading",
+        "trend",
+        "2024?",
+        "just"
+      ],
+      "feedDate": 1712310023000,
+      "source": "Cryptopolitan",
+      "title": "Could Bitbot’s Presale Passing $1.8m Trigger Telegram Trading Trend in 2024?",
+      "sourceLink": "https://www.cryptopolitan.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.cryptopolitan.com/wp-content/uploads/2024/04/Bitbot-Content-Media-Bank-–-Small-Logo-21.png",
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/876ed88888cff9f4a0f26d9e187450c2b65dcf64c038cdab17af30608269b252_Could-Bitbots-Presale-Passing-1.8m-Trigger-Telegram-Trading-Trend-in-2024",
+      "relatedCoins": [
+        "just"
+      ],
+      "content": true,
+      "link": "https://www.cryptopolitan.com/could-bitbots-presale-passing-1-8m-trigger-telegram-trading-trend-in-2024/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "With its presale figure already having passed $1.8m and stages rapidly selling out, a buzzing question emerges: Will Bitbot ignite a trading revolution on Telegram in 2024? This possibility points towards a new era where Telegram bots are not just tools for communication but pivotal in financial trading strategies. Timing is crucial as early participation [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "JST",
+          "coinPercent": 1.41,
+          "coinTitleKeyWords": "JST",
+          "coinNameKeyWords": "JUST",
+          "coinIdKeyWords": "just"
+        }
+      ]
+    }
+  ]
+}

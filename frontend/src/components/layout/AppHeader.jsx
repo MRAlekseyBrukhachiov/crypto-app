@@ -40,7 +40,6 @@ const AppHeader = () => {
     return (
         <Layout.Header style={headerStyle}>
             <Select
-                // mode="multiple"
                 style={{
                     width: 250,
                 }}
@@ -60,6 +59,7 @@ const AppHeader = () => {
                 </Space>
                 )}
             />
+            <Button type="default" onClick={() => setDrawer(true)}>News</Button>
             <Button type="primary" onClick={() => setDrawer(true)}>Add Asset</Button>
 
             <Modal open={modal} onCancel={() => setModal(false)} footer={null}>

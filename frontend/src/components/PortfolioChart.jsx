@@ -26,7 +26,7 @@ const PortfolioChart = () => {
       };
 
     return (
-        <div style={{display: 'flex', marginBottom: '1rem', justifyContent: 'center', height: 400}}>
+        <div style={{display: 'flex', marginBottom: '1rem', justifyContent: 'center', height: 650}}>
             <Pie data={data}/>
         </div>
     )

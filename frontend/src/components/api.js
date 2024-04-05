@@ -1,4 +1,4 @@
-import { cryptoAssets, cryptoData } from "../data";
+import { cryptoAssets, cryptoData, cryptoLatestNews, cryptoTrendingNews } from "../data";
 
 const fakeFetchCrypto = () => {
     return new Promise(resolve => {
@@ -16,4 +16,20 @@ const fakeFetchAssets = () => {
     })
 }
 
-export { fakeFetchCrypto, fakeFetchAssets }
+const fakeFetchLatestNews = () => {
+    return new Promise(resolve => {
+        setTimeout(() => {
+            resolve(cryptoLatestNews)
+        }, 500)
+    })
+}
+
+const fakeFetchTrendingNews = () => {
+    return new Promise(resolve => {
+        setTimeout(() => {
+            resolve(cryptoTrendingNews)
+        }, 500)
+    })
+}
+
+export { fakeFetchCrypto, fakeFetchAssets, fakeFetchLatestNews, fakeFetchTrendingNews }

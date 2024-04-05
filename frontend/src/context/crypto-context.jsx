@@ -1,10 +1,12 @@
 import { createContext, useState, useEffect, useContext } from "react";
-import { fakeFetchAssets, fakeFetchCrypto } from "../components/api";
+import { fakeFetchAssets, fakeFetchCrypto, fakeFetchLatestNews, fakeFetchTrendingNews } from "../components/api";
 import { percentDifference } from "../utils";
 
 const CryptoContext = createContext({
     assets: [],
     crypto: [],
+    latestNews: [],
+    trendingNews: [],
     loading: false
 })
 
@@ -12,6 +14,8 @@ const CryptoContextProvider = ({children}) => {
     const [loading, setLoading] = useState(false)
     const [crypto, setCrypto] = useState([])
     const [assets, setAssets] = useState([])
+    const [latestNews, setLatestNews] = useState([])
+    const [trendingNews, setTrendingNews] = useState([])
 
     const mapAssets = (assets, result) => {
         return assets.map(asset => {
@@ -32,9 +36,13 @@ const CryptoContextProvider = ({children}) => {
             setLoading(true)
             const { result } = await fakeFetchCrypto()
             const assets = await fakeFetchAssets()
+            const latestNews = await fakeFetchLatestNews()
+            const trendingNews = await fakeFetchTrendingNews()
 
             setCrypto(result)
             setAssets(mapAssets(assets, result))
+            setLatestNews(latestNews.result)
+            setTrendingNews(trendingNews.result)
             setLoading(false)
         }
         preload()
@@ -65,7 +73,7 @@ const CryptoContextProvider = ({children}) => {
     }
 
     return (
-        <CryptoContext.Provider value={{ loading, crypto, assets, addAsset, deleteAsset, updateAsset }}>
+        <CryptoContext.Provider value={{ loading, crypto, assets, latestNews, trendingNews, addAsset, deleteAsset, updateAsset }}>
             {children}
         </CryptoContext.Provider>
     )
