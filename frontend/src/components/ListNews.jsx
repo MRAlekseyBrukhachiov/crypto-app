@@ -1,7 +1,7 @@
 import { ClockCircleOutlined } from '@ant-design/icons';
 import React from 'react';
 import { List, Space, Typography } from 'antd';
-import { useCrypto } from '../context/crypto-context';
+import { getTimeAgo } from '../utils';
 
   const IconText = ({ icon, text }) => (
     <Space>
@@ -9,18 +9,6 @@ import { useCrypto } from '../context/crypto-context';
       {text}
     </Space>
   );
-
-  const getTimeAgo = (feedDate) => {
-    const t = Date.now() - feedDate,
-          seconds = Math.floor((t / 1000) % 60),
-          minutes = Math.floor((t / 1000 / 60) % 60),
-          hours = Math.floor((t / 1000 / 60 / 60) % 24),
-          days = Math.floor(t / 1000 / 60 / 60 / 24);
-    
-    return {
-        days, hours, minutes, seconds
-    };
-};
 
 const showTime = (timeAgo) => {
     const { days, hours, minutes, seconds } = timeAgo;
@@ -36,9 +24,6 @@ const showTime = (timeAgo) => {
 }
 
 const ListNews = ({news, label}) => {
-
-    // const { latestNews } = useCrypto()
-
     const data = news.map(a => ({
         href: a.shareURL,
         title: a.title,
