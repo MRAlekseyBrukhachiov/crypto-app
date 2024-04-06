@@ -2342,3 +2342,1892 @@ export const cryptoTrendingNews = {
     }
   ]
 }
+
+export const cryptoBullishNews = {
+  result: [
+    {
+      "id": "9c5610f3deca300f7a145919675975f72ea9ab6f9ebd468eccf3ef35d30b84e9",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "altcoin news",
+        "matic price",
+        "polygon matic",
+        "polygon price",
+        "polygon price prediction",
+        "matic",
+        "price",
+        "to",
+        "hit",
+        "$1,",
+        "analyst",
+        "predicts",
+        "citing",
+        "technical",
+        "indicators",
+        "polygon"
+      ],
+      "feedDate": 1712316679000,
+      "source": "CoinGape",
+      "title": "MATIC Price To Hit $1, Analyst Predicts Citing Technical Indicators",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/01/Polygon-Matic.jpg",
+      "reactionsCount": {
+        "2": 41,
+        "3": 29
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/9c5610f3deca300f7a145919675975f72ea9ab6f9ebd468eccf3ef35d30b84e9_MATIC-Price-To-Hit-1-Analyst-Predicts-Citing-Technical-Indicators",
+      "relatedCoins": [
+        "matic-network"
+      ],
+      "content": true,
+      "link": "https://coingape.com/matic-price-hit-1-analyst-predicts-citing-technical-indicators/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The Polygon crypto has been under scrutiny among investors, despite a minor dip of nearly 2% in the MATIC price on April 5. Notably, recent developments, including the unveiling of cdk-erigon for Polygon&#8217;s zkEVM on March 29, have piqued interest among the market participants over crypto. However, amid the recent market volatility, concerns arose following ",
+      "coins": [
+        {
+          "coinKeyWords": "MATIC",
+          "coinPercent": 1.4,
+          "coinTitleKeyWords": "MATIC",
+          "coinNameKeyWords": "Polygon",
+          "coinIdKeyWords": "matic-network"
+        }
+      ]
+    },
+    {
+      "id": "fd5aa5471528a01f53210cefc34e2ce1e35c9b311a8d62e8ca0f0f324531cc0a",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "bitcoin news",
+        "bitcoin etf",
+        "bitcoin etf inflows",
+        "bitcoin etf outflows",
+        "gbtc",
+        "grayscale bitcoin etf",
+        "outflows",
+        "to",
+        "lowest",
+        "month,",
+        "bitcoin",
+        "price",
+        "rally",
+        "ahead?"
+      ],
+      "feedDate": 1712205989000,
+      "source": "CoinGape",
+      "title": "GBTC Outflows Drop to The Lowest In A Month, Bitcoin Price Rally Ahead?",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/03/bitcoin-price5-1.jpg",
+      "reactionsCount": {
+        "2": 41,
+        "3": 10
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/fd5aa5471528a01f53210cefc34e2ce1e35c9b311a8d62e8ca0f0f324531cc0a_GBTC-Outflows-Drop-to-The-Lowest-In-A-Month-Bitcoin-Price-Rally-Ahead",
+      "relatedCoins": [
+        "bitcoin",
+        "rally-2"
+      ],
+      "content": true,
+      "link": "https://coingape.com/gbtc-outflows-drop-to-the-lowest-in-a-month-bitcoin-price-rally-ahead/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "After a week of outflows in March, the spot Bitcoin ETFs are finding a strong footing again with inflows turning positive. The good thing is that the outflows from Grayscale Bitcoin ETF GBTC have also been on a declining trend. The daily GBTC outflows stood under $100 million for the second consecutive day on Wednesday, ",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.56,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "RLY",
+          "coinPercent": -0.51,
+          "coinTitleKeyWords": "RLY",
+          "coinNameKeyWords": "Rally",
+          "coinIdKeyWords": "rally-2"
+        }
+      ]
+    },
+    {
+      "id": "cf8ee91c724b2c6c5199edd72fccfe05820ec9be73fb90274d77de6d8a1f16d4",
+      "searchKeyWords": [
+        "ripple,",
+        "developer",
+        "behind",
+        "xrp",
+        "ledger,",
+        "enters",
+        "stablecoin",
+        "fray",
+        "vs.",
+        "tether,",
+        "usdc"
+      ],
+      "feedDate": 1712235600000,
+      "source": "CoinDesk",
+      "title": "Ripple, Developer Behind XRP Ledger, Enters Stablecoin Fray vs. Tether, USDC",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/Lqw4TdLk2wJzVzl9CpXft4B4H4I=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H3HCUZ7CA5EBBFHFIODGUCXXTQ.jpg",
+      "reactionsCount": {
+        "2": 35,
+        "3": 26
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/cf8ee91c724b2c6c5199edd72fccfe05820ec9be73fb90274d77de6d8a1f16d4_Ripple-Developer-Behind-XRP-Ledger-Enters-Stablecoin-Fray-vs.-Tether-USDC",
+      "relatedCoins": [
+        "usd-coin",
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/tech/2024/04/04/ripple-developer-behind-xrp-ledger-enters-stablecoin-fray-vs-tether-usdc/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The token will be \"100% backed by U.S. dollar deposits, short-term U.S. government Treasuries and other cash equivalents.\" according to the company.",
+      "coins": [
+        {
+          "coinKeyWords": "USDC",
+          "coinPercent": 0.02,
+          "coinTitleKeyWords": "USDC",
+          "coinNameKeyWords": "USDC",
+          "coinIdKeyWords": "usd-coin"
+        },
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 2.18,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "867da69657c4fa9f1340efd628f4d086df82b3750c9f12105ab34302fb55e1d4",
+      "searchKeyWords": [
+        "google",
+        "takes",
+        "legal",
+        "action",
+        "against",
+        "alleged",
+        "scammers",
+        "uploading",
+        "fraudulent",
+        "apps"
+      ],
+      "feedDate": 1712232439000,
+      "source": "CoinDesk",
+      "title": "Google Takes Legal Action Against Alleged Crypto Scammers for Uploading Fraudulent Apps",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/Xn3rgPvYGYDT_e57gvZzUWSYmPQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XXJUQCHQJJDV3CJXMUGTV7XLJY",
+      "reactionsCount": {
+        "2": 32,
+        "3": 13,
+        "4": 2
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/867da69657c4fa9f1340efd628f4d086df82b3750c9f12105ab34302fb55e1d4_Google-Takes-Legal-Action-Against-Alleged-Crypto-Scammers-for-Uploading-Fraudulent-Apps",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://www.coindesk.com/policy/2024/04/04/google-takes-legal-action-against-alleged-crypto-scammers-for-uploading-fraudulent-apps/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The defendants are said to have committed hundreds of acts of wire fraud, \"causing harm to Google and at least approximately 100,000 Google users.\"",
+      "coins": []
+    },
+    {
+      "id": "d9920244100ee5c5d7d1076770e1aae5599b603c0d8fe7a47bf6ae353a3245d2",
+      "searchKeyWords": [
+        "journal",
+        "latest news",
+        "is",
+        "xrp",
+        "‘doomed’",
+        "after",
+        "ripple",
+        "announced",
+        "stablecoin?"
+      ],
+      "feedDate": 1712306700000,
+      "source": "CaptainAltcoin",
+      "title": "Is XRP ‘Doomed’ After Ripple Announced a New Stablecoin?",
+      "sourceLink": "https://captainaltcoin.com",
+      "isFeatured": false,
+      "imgUrl": "https://captainaltcoin.com/wp-content/uploads/2023/08/ripple-vs-xrp-300x169.png",
+      "reactionsCount": {
+        "2": 29,
+        "3": 37
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/d9920244100ee5c5d7d1076770e1aae5599b603c0d8fe7a47bf6ae353a3245d2_Is-XRP-Doomed-After-Ripple-Announced-a-New-Stablecoin",
+      "relatedCoins": [
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://captainaltcoin.com/is-xrp-doomed-after-ripple-announced-a-new-stablecoin/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Ripple, the blockchain company behind the XRP cryptocurrency, announced major plans on Thursday to launch a USD-backed stablecoin. This news has led to speculation about whether Ripple&#8217;s new stablecoin could make XRP obsolete. However, a deeper analysis by Krippenreiter reveals key differences between the two cryptocurrencies and why XRP&#8217;s uniqueness ensures it will continue to",
+      "coins": [
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 2.18,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "3ae2b719866f3d3d7338fce4d977bd8414b5247cd72285329ef41ece1caaf2cf",
+      "searchKeyWords": [
+        "market",
+        "maker",
+        "gsr",
+        "recieves",
+        "singapore",
+        "license"
+      ],
+      "feedDate": 1712214238000,
+      "source": "CoinDesk",
+      "title": "Crypto Market Maker GSR Recieves Singapore Crypto License",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/MzVpB881JlKVJ7Ry4MrDaXc9E2Q=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5RTEIG75WVEHHKHDHD44ORGV5E.jpg",
+      "reactionsCount": {
+        "2": 29,
+        "3": 19
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/3ae2b719866f3d3d7338fce4d977bd8414b5247cd72285329ef41ece1caaf2cf_Crypto-Market-Maker-GSR-Recieves-Singapore-Crypto-License",
+      "relatedCoins": [
+        "maker"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/policy/2024/04/04/crypto-market-maker-gsr-recieves-singapore-crypto-license/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The license is the first awarded by Singapore to a crypto market maker.",
+      "coins": [
+        {
+          "coinKeyWords": "MKR",
+          "coinPercent": 0.94,
+          "coinTitleKeyWords": "MKR",
+          "coinNameKeyWords": "Maker",
+          "coinIdKeyWords": "maker"
+        }
+      ]
+    },
+    {
+      "id": "08d6757644eb0533ce581d7e9ebff7ff191d04e4d8dfe6ea057046415204659e",
+      "searchKeyWords": [
+        "bitcoin",
+        "spikes",
+        "10%",
+        "after",
+        "halving,",
+        "hovers",
+        "above",
+        "$66k"
+      ],
+      "feedDate": 1712231623000,
+      "source": "CoinDesk",
+      "title": "Bitcoin Cash Spikes 10% After Halving, Bitcoin Hovers Above $66K",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/EkH3yLBamkQbVIT1pV5GJI1OJAQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5HK2YAN7J5H33GIN32LVKI7S4Y.jpg",
+      "reactionsCount": {
+        "2": 19,
+        "3": 11
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/08d6757644eb0533ce581d7e9ebff7ff191d04e4d8dfe6ea057046415204659e_Bitcoin-Cash-Spikes-10-After-Halving-Bitcoin-Hovers-Above-66K",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/markets/2024/04/04/bitcoin-cash-spikes-10-after-halving-bitcoin-hovers-above-66k/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Analysts said BTC traders are probably waiting for macroeconomic signals before making a move, referring to the current market lull.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.56,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "f2a54fd4714e5739fa7fca635a8842de90ab2ced3d6acdd21224c5ecf68252be",
+      "searchKeyWords": [
+        "xrp",
+        "skyrockets",
+        "over",
+        "80%",
+        "metric",
+        "as",
+        "price",
+        "attempts",
+        "rebound"
+      ],
+      "feedDate": 1712320740000,
+      "source": "U.Today",
+      "title": "XRP Skyrockets Over 80% in Key Metric as Price Attempts Rebound",
+      "sourceLink": "https://u.today/",
+      "isFeatured": false,
+      "imgUrl": "https://u.today/sites/default/files/styles/736x/public/2024-04/46872.jpg",
+      "reactionsCount": {
+        "2": 18,
+        "3": 12
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/f2a54fd4714e5739fa7fca635a8842de90ab2ced3d6acdd21224c5ecf68252be_XRP-Skyrockets-Over-80-in-Key-Metric-as-Price-Attempts-Rebound",
+      "relatedCoins": [
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://u.today/xrp-skyrockets-over-80-in-key-metric-as-price-attempts-rebound?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "XRP's trading volume has surged over 80% as price looks for momentum",
+      "coins": [
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 2.18,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "6b1add2852ce2d29d25d3a2d3a7b955f10d6aba5596774fad9f2bb093bbae741",
+      "searchKeyWords": [
+        "latest news",
+        "news",
+        "arkham",
+        "nansen",
+        "publicly",
+        "shames",
+        "competitor"
+      ],
+      "feedDate": 1712252822000,
+      "source": "Cryptopolitan",
+      "title": "Nansen publicly shames competitor Arkham",
+      "sourceLink": "https://www.cryptopolitan.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.cryptopolitan.com/wp-content/uploads/2024/04/DALL·E-2024-04-04-18.11.05-Craft-a-scene-that-visualizes-the-scenario-where-Nansen-a-blockchain-analytics-platform-publicly-criticizes-or-shames-its-competitor-Arkham-in-a-p.webp",
+      "reactionsCount": {
+        "2": 17,
+        "3": 17
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/6b1add2852ce2d29d25d3a2d3a7b955f10d6aba5596774fad9f2bb093bbae741_Nansen-publicly-shames-competitor-Arkham",
+      "relatedCoins": [
+        "arkham"
+      ],
+      "content": true,
+      "link": "https://www.cryptopolitan.com/nansen-publicly-shames-competitor-arkham/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Well. It would seem that Nansen woke up today and made the conscious decision to choose violence. In a dramatic fashion, they started a very interesting Twitter thread, publicly shaming their biggest competitor Arkham Intelligence. Apparently, the guys at Arkham have been more than a little bit too shady. And Nansen got the receipts too! [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "ARKM",
+          "coinPercent": 1.88,
+          "coinTitleKeyWords": "ARKM",
+          "coinNameKeyWords": "Arkham",
+          "coinIdKeyWords": "arkham"
+        }
+      ]
+    },
+    {
+      "id": "ca629920258efa7a8d3d1b6882d67ebaed6a58ff3745808b8022400ddf06fb68",
+      "searchKeyWords": [
+        "derivatives",
+        "lost",
+        "overall",
+        "market",
+        "share",
+        "march",
+        "despite",
+        "hitting",
+        "record",
+        "trading",
+        "volume",
+        "$6.18t"
+      ],
+      "feedDate": 1712299297000,
+      "source": "CoinDesk",
+      "title": "Crypto Derivatives Lost Overall Market Share in March Despite Hitting Record High Trading Volume of $6.18T",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/syIfutlwavCHpoJCKJFbA0WMsi8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/G45EECBV5BGGZBFBXAXLZF6KBM.png",
+      "reactionsCount": {
+        "2": 14,
+        "3": 15
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ca629920258efa7a8d3d1b6882d67ebaed6a58ff3745808b8022400ddf06fb68_Crypto-Derivatives-Lost-Overall-Market-Share-in-March-Despite-Hitting-Record-High-Trading-Volume-of-6.18T",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://www.coindesk.com/markets/2024/04/05/crypto-derivatives-lost-overall-market-share-in-march-despite-hitting-record-high-trading-volume-of-618t/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The share of crypto derivatives in total market activity slipped to 67.8% in March, according to CCData.",
+      "coins": []
+    },
+    {
+      "id": "ce25ae21bff641df895f7969514a0ec48af52d996c7d8907d28b74e62f1c2c48",
+      "searchKeyWords": [
+        "eu",
+        "watchdog",
+        "says",
+        "reordering",
+        "blockchain",
+        "transactions",
+        "might",
+        "be",
+        "market",
+        "abuse.",
+        "industry",
+        "it's",
+        "not"
+      ],
+      "feedDate": 1712289600000,
+      "source": "CoinDesk",
+      "title": "EU Watchdog Says Reordering Blockchain Transactions Might Be Market Abuse. Industry Says It's Not",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/kKc1XdegiEQV4H8zpG6uVcVHAHE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4TBWKA54O5G7VFQACBUWDJ5MNU.jpg",
+      "reactionsCount": {
+        "2": 12,
+        "3": 8
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ce25ae21bff641df895f7969514a0ec48af52d996c7d8907d28b74e62f1c2c48_EU-Watchdog-Says-Reordering-Blockchain-Transactions-Might-Be-Market-Abuse.-Industry-Says-Its-Not",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://www.coindesk.com/policy/2024/04/05/eu-watchdog-says-reordering-blockchain-transactions-might-be-market-abuse-industry-says-its-not/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Maximum Extractable Value (MEV), in which crypto miners reorder transactions they validate for profit, is not inherently bad, some policy experts point out.",
+      "coins": []
+    },
+    {
+      "id": "ec462813a4f28a8e985db8dc0ac3d8815e84863f8d0a17329c6bcd1038317568",
+      "searchKeyWords": [
+        "finance news",
+        "cardano (ada)",
+        "charles hoskinson",
+        "cmc rss",
+        "coin stats rss",
+        "getting informed",
+        "short news",
+        "trading exchange rss",
+        "une",
+        "crypto:",
+        "charles",
+        "hoskinson",
+        "has",
+        "unwavering",
+        "confidence",
+        "ada",
+        "bitcoin",
+        "cardano",
+        "optimism",
+        "just",
+        "swissborg",
+        "rally"
+      ],
+      "feedDate": 1712241035000,
+      "source": "Cointribune English",
+      "title": "Crypto: Charles Hoskinson has unwavering confidence in ADA",
+      "sourceLink": "https://www.cointribune.com/en/",
+      "isFeatured": false,
+      "imgUrl": "https://www.cointribune.com/app/uploads/2024/04/Hoskinson-ADA-hausse-1024x683.png",
+      "reactionsCount": {
+        "2": 12,
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ec462813a4f28a8e985db8dc0ac3d8815e84863f8d0a17329c6bcd1038317568_Crypto-Charles-Hoskinson-has-unwavering-confidence-in-ADA",
+      "relatedCoins": [
+        "bitcoin",
+        "cardano",
+        "optimism",
+        "just",
+        "swissborg",
+        "rally-2"
+      ],
+      "content": true,
+      "link": "https://www.cointribune.com/en/crypto-charles-hoskinson-has-unwavering-confidence-in-ada/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Charles Hoskinson, co-founder of the crypto firm Cardano, has recently spoken about ADA, the native asset of the platform. Now more than ever, the expert believes in the crypto’s capacity to make an impact due to its dynamism. An optimism that must contend with the constant threat posed by the volatility inherent in the crypto market.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.56,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.4,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        },
+        {
+          "coinKeyWords": "OP",
+          "coinPercent": 1.14,
+          "coinTitleKeyWords": "OP",
+          "coinNameKeyWords": "Optimism",
+          "coinIdKeyWords": "optimism"
+        }
+      ]
+    },
+    {
+      "id": "93e736b3b23aee2e21be5fe57f6497544f9c62012ea888a256136bba38adec4e",
+      "searchKeyWords": [
+        "choppy",
+        "bitcoin",
+        "price",
+        "action",
+        "continues",
+        "ahead",
+        "friday's",
+        "jobs",
+        "report"
+      ],
+      "feedDate": 1712174413000,
+      "source": "CoinDesk",
+      "title": "Choppy Bitcoin Price Action Continues Ahead of Friday's Jobs Report",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/gZ4wCxgvIFFPd0RfSDEsjNwArMw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JW5FU6PF3JAOPMXT27ISYPWSGU.jpeg",
+      "reactionsCount": {
+        "2": 11,
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/93e736b3b23aee2e21be5fe57f6497544f9c62012ea888a256136bba38adec4e_Choppy-Bitcoin-Price-Action-Continues-Ahead-of-Fridays-Jobs-Report",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/markets/2024/04/03/choppy-bitcoin-price-action-continues-ahead-of-fridays-jobs-report/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Flows into the new spot ETFs have been subdued for a couple of weeks, possibly prompting a renewed interest in macro drivers for price direction.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.56,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "75bb8fad6e1e536e3dc92f0d3732d9973414318f7682a0554617f6c852bdc96d",
+      "searchKeyWords": [
+        "bitcoin",
+        "to",
+        "$8",
+        "million?",
+        "anthony",
+        "scaramucci",
+        "shares",
+        "epic",
+        "btc",
+        "price",
+        "prediction"
+      ],
+      "feedDate": 1712401980000,
+      "source": "U.Today",
+      "title": "Bitcoin to $8 Million? Anthony Scaramucci Shares Epic BTC Price Prediction",
+      "sourceLink": "https://u.today/",
+      "isFeatured": false,
+      "imgUrl": "https://u.today/sites/default/files/styles/736x/public/2024-04/46936.jpg",
+      "reactionsCount": {
+        "2": 10,
+        "3": 2
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/75bb8fad6e1e536e3dc92f0d3732d9973414318f7682a0554617f6c852bdc96d_Bitcoin-to-8-Million-Anthony-Scaramucci-Shares-Epic-BTC-Price-Prediction",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://u.today/bitcoin-to-8-million-anthony-scaramucci-shares-epic-btc-price-prediction?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Founder of SkyBridge Capital thinks halving is not priced in yet, expecting Bitcoin price to go up to $170,000 in this cycle",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.56,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "108a9e3831379739a40da617aad6ad13d0c80f0d546ebc976b44c58b6045ff8d",
+      "searchKeyWords": [
+        "journal",
+        "latest news",
+        "cardano’s",
+        "bulls’",
+        "hopes",
+        "continue",
+        "to",
+        "wane",
+        "as",
+        "ada",
+        "technicals",
+        "remain",
+        "bearish",
+        "and",
+        "whale",
+        "activity",
+        "dips:",
+        "watch",
+        "these",
+        "levels",
+        "closely",
+        "cardano"
+      ],
+      "feedDate": 1712351700000,
+      "source": "CaptainAltcoin",
+      "title": "Cardano’s Bulls’ Hopes Continue to Wane as ADA Technicals Remain Bearish and Whale Activity Dips: Watch These Key Levels Closely",
+      "sourceLink": "https://captainaltcoin.com",
+      "isFeatured": false,
+      "imgUrl": "https://captainaltcoin.com/wp-content/uploads/2023/10/Copy-of-P2P-Review-18-1-300x175.png",
+      "reactionsCount": {
+        "2": 10,
+        "3": 5
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/108a9e3831379739a40da617aad6ad13d0c80f0d546ebc976b44c58b6045ff8d_Cardanos-Bulls-Hopes-Continue-to-Wane-as-ADA-Technicals-Remain-Bearish-and-Whale-Activity-Dips-Watch-These-Key-Levels-Closely",
+      "relatedCoins": [
+        "cardano"
+      ],
+      "content": true,
+      "link": "https://captainaltcoin.com/cardanos-bulls-hopes-continue-to-wane-as-technicals-remain-bearish-and-whale-activity-dips-watch-these-key-levels-closely/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "According to charts shared by @ali_charts on Twitter, the Cardano (ADA) cryptocurrency appears to be facing bearish technicals and a lack of large investor activity, potentially signaling further price consolidation or an impending drop. Data from the blockchain analytics firm altFINS shows Cardano is experiencing a lull in whale transactions, with large ADA holders exhibiting",
+      "coins": [
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.4,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        }
+      ]
+    },
+    {
+      "id": "1ebe23890438eb0e883aa73431a1f79688277bc9c69e6669bb96dda83d5ce642",
+      "searchKeyWords": [
+        "cardano (ada)",
+        "cardano",
+        "(ada)",
+        "shows",
+        "potential",
+        "bullish",
+        "rally",
+        "despite",
+        "market",
+        "downtrend",
+        "bitcoin"
+      ],
+      "feedDate": 1712222366000,
+      "source": "COINTURK NEWS",
+      "title": "Cardano (ADA) Shows Potential for a Bullish Rally Despite Market Downtrend",
+      "sourceLink": "https://en.coin-turk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://en.coin-turk.com/wp-content/uploads/2024/04/cardano-ada-0010.jpg",
+      "reactionsCount": {
+        "2": 9,
+        "3": 1
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/1ebe23890438eb0e883aa73431a1f79688277bc9c69e6669bb96dda83d5ce642_Cardano-ADA-Shows-Potential-for-a-Bullish-Rally-Despite-Market-Downtrend",
+      "relatedCoins": [
+        "cardano",
+        "rally-2",
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://en.coin-turk.com/cardano-ada-shows-potential-for-a-bullish-rally-despite-market-downtrend/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Bitcoin's decline affects most cryptocurrencies, including ADA. Historical data suggests high possibility of ADA starting a bull rally.",
+      "coins": [
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.4,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        },
+        {
+          "coinKeyWords": "RLY",
+          "coinPercent": -0.51,
+          "coinTitleKeyWords": "RLY",
+          "coinNameKeyWords": "Rally",
+          "coinIdKeyWords": "rally-2"
+        },
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.56,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "de02ede8c3a2f98699b4af52480e177c41641f86203821da803c35d8777167c8",
+      "searchKeyWords": [
+        "etf",
+        "investments",
+        "cardano",
+        "cosmos",
+        "grayscale",
+        "drops",
+        "and",
+        "from",
+        "its",
+        "funds",
+        "quarterly",
+        "rebalancing"
+      ],
+      "feedDate": 1712331304000,
+      "source": "CryptoSlate",
+      "title": "Grayscale drops Cardano and Cosmos from its crypto funds in quarterly rebalancing",
+      "sourceLink": "https://cryptoslate.com/",
+      "isFeatured": false,
+      "imgUrl": "https://cryptoslate.com/wp-content/uploads/2024/04/grayscale-crypto-assets.jpg",
+      "reactionsCount": {
+        "2": 8,
+        "3": 4
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/de02ede8c3a2f98699b4af52480e177c41641f86203821da803c35d8777167c8_Grayscale-drops-Cardano-and-Cosmos-from-its-crypto-funds-in-quarterly-rebalancing",
+      "relatedCoins": [
+        "cardano",
+        "cosmos"
+      ],
+      "content": true,
+      "link": "https://cryptoslate.com/grayscale-drops-cardano-and-cosmos-from-its-crypto-funds-in-quarterly-rebalancing/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Prominent crypto asset management firm Grayscale has removed two high-profile digital assets, Cardano and Cosmos, from its multi-asset funds as part of its quarterly fund rebalancing. In an April 4 press statement, the firm revealed that it removed Cardano from its Grayscale Digital Large Cap Fund (GDLC) and Cosmos&#8217;s ATOM token from the Grayscale Smart [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.4,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        },
+        {
+          "coinKeyWords": "ATOM",
+          "coinPercent": 0.97,
+          "coinTitleKeyWords": "ATOM",
+          "coinNameKeyWords": "Cosmos Hub",
+          "coinIdKeyWords": "cosmos"
+        }
+      ]
+    },
+    {
+      "id": "c5c261d8962b522f50d001359c35d4e311b787a3e6cc1e822682a86ab3012c6d",
+      "searchKeyWords": [
+        "galaxy",
+        "plans",
+        "to",
+        "raise",
+        "$100m",
+        "first",
+        "venture",
+        "fund"
+      ],
+      "feedDate": 1712169445000,
+      "source": "CoinDesk",
+      "title": "Galaxy Plans to Raise $100M for First Crypto Venture Fund",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/8IUMMArdS-JF97h4XKa1JvuWsVw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B3RDT3XZTFE3VIICDLLY3T7EH4.jpg",
+      "reactionsCount": {
+        "2": 7,
+        "3": 5
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/c5c261d8962b522f50d001359c35d4e311b787a3e6cc1e822682a86ab3012c6d_Galaxy-Plans-to-Raise-100M-for-First-Crypto-Venture-Fund",
+      "relatedCoins": [],
+      "content": false,
+      "link": "https://www.coindesk.com/business/2024/04/03/galaxy-plans-to-raise-100m-for-first-crypto-venture-fund/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "",
+      "coins": []
+    },
+    {
+      "id": "387bc4d9a1fdaba3a70c3b42b48d98917bd0c6548cee6fb112460b58f838ec5a",
+      "searchKeyWords": [
+        "blockchain news",
+        "ripple",
+        "xrp",
+        "steps",
+        "into",
+        "stablecoin",
+        "arena:",
+        "game-changer",
+        "ledger"
+      ],
+      "feedDate": 1712236338000,
+      "source": "BlockchainReporter",
+      "title": "Ripple Steps Into the Stablecoin Arena: A Game-Changer for XRP Ledger",
+      "sourceLink": "blockchainreporter.net",
+      "isFeatured": false,
+      "imgUrl": "https://blockchainreporter.net/wp-content/uploads/2024/01/xrp-ripple2-150x150.webp",
+      "reactionsCount": {
+        "2": 5
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/387bc4d9a1fdaba3a70c3b42b48d98917bd0c6548cee6fb112460b58f838ec5a_Ripple-Steps-Into-the-Stablecoin-Arena-A-GameChanger-for-XRP-Ledger",
+      "relatedCoins": [
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://blockchainreporter.net/ripple-steps-into-the-stablecoin-arena-a-game-changer-for-xrp-ledger/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Ripple unveils USD-pegged stablecoin to enhance XRP Ledger utility, promising transparency, regulatory compliance, and cross-chain interoperability.",
+      "coins": [
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 2.18,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "b2652cf52a35626354218c11ff800997e97ce87d45a77b6604f0a87ea42d6b41",
+      "searchKeyWords": [
+        "'cardano",
+        "always",
+        "wins':",
+        "charles",
+        "hoskison",
+        "shares",
+        "bullish",
+        "statement",
+        "",
+        "cardano"
+      ],
+      "feedDate": 1712223240000,
+      "source": "U.Today",
+      "title": "'Cardano Always Wins': Charles Hoskison Shares Bullish Statement ",
+      "sourceLink": "https://u.today/",
+      "isFeatured": false,
+      "imgUrl": "https://u.today/sites/default/files/styles/736x/public/2024-04/46797.jpg",
+      "reactionsCount": {
+        "2": 5
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/b2652cf52a35626354218c11ff800997e97ce87d45a77b6604f0a87ea42d6b41_Cardano-Always-Wins-Charles-Hoskison-Shares-Bullish-Statement-",
+      "relatedCoins": [
+        "cardano"
+      ],
+      "content": true,
+      "link": "https://u.today/cardano-always-wins-charles-hoskison-shares-bullish-statement?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Cardano is strongest asset out there, believes its creator",
+      "coins": [
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.4,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        }
+      ]
+    }
+  ]
+}
+
+export const cryptoBearishNews = {
+  result: [
+    {
+      "id": "d9920244100ee5c5d7d1076770e1aae5599b603c0d8fe7a47bf6ae353a3245d2",
+      "searchKeyWords": [
+        "journal",
+        "latest news",
+        "is",
+        "xrp",
+        "‘doomed’",
+        "after",
+        "ripple",
+        "announced",
+        "stablecoin?"
+      ],
+      "feedDate": 1712306700000,
+      "source": "CaptainAltcoin",
+      "title": "Is XRP ‘Doomed’ After Ripple Announced a New Stablecoin?",
+      "sourceLink": "https://captainaltcoin.com",
+      "isFeatured": false,
+      "imgUrl": "https://captainaltcoin.com/wp-content/uploads/2023/08/ripple-vs-xrp-300x169.png",
+      "reactionsCount": {
+        "2": 29,
+        "3": 37
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/d9920244100ee5c5d7d1076770e1aae5599b603c0d8fe7a47bf6ae353a3245d2_Is-XRP-Doomed-After-Ripple-Announced-a-New-Stablecoin",
+      "relatedCoins": [
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://captainaltcoin.com/is-xrp-doomed-after-ripple-announced-a-new-stablecoin/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Ripple, the blockchain company behind the XRP cryptocurrency, announced major plans on Thursday to launch a USD-backed stablecoin. This news has led to speculation about whether Ripple&#8217;s new stablecoin could make XRP obsolete. However, a deeper analysis by Krippenreiter reveals key differences between the two cryptocurrencies and why XRP&#8217;s uniqueness ensures it will continue to",
+      "coins": [
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 2.07,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "9c5610f3deca300f7a145919675975f72ea9ab6f9ebd468eccf3ef35d30b84e9",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "altcoin news",
+        "matic price",
+        "polygon matic",
+        "polygon price",
+        "polygon price prediction",
+        "matic",
+        "price",
+        "to",
+        "hit",
+        "$1,",
+        "analyst",
+        "predicts",
+        "citing",
+        "technical",
+        "indicators",
+        "polygon"
+      ],
+      "feedDate": 1712316679000,
+      "source": "CoinGape",
+      "title": "MATIC Price To Hit $1, Analyst Predicts Citing Technical Indicators",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/01/Polygon-Matic.jpg",
+      "reactionsCount": {
+        "2": 41,
+        "3": 29
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/9c5610f3deca300f7a145919675975f72ea9ab6f9ebd468eccf3ef35d30b84e9_MATIC-Price-To-Hit-1-Analyst-Predicts-Citing-Technical-Indicators",
+      "relatedCoins": [
+        "matic-network"
+      ],
+      "content": true,
+      "link": "https://coingape.com/matic-price-hit-1-analyst-predicts-citing-technical-indicators/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The Polygon crypto has been under scrutiny among investors, despite a minor dip of nearly 2% in the MATIC price on April 5. Notably, recent developments, including the unveiling of cdk-erigon for Polygon&#8217;s zkEVM on March 29, have piqued interest among the market participants over crypto. However, amid the recent market volatility, concerns arose following ",
+      "coins": [
+        {
+          "coinKeyWords": "MATIC",
+          "coinPercent": 1.22,
+          "coinTitleKeyWords": "MATIC",
+          "coinNameKeyWords": "Polygon",
+          "coinIdKeyWords": "matic-network"
+        }
+      ]
+    },
+    {
+      "id": "cf8ee91c724b2c6c5199edd72fccfe05820ec9be73fb90274d77de6d8a1f16d4",
+      "searchKeyWords": [
+        "ripple,",
+        "developer",
+        "behind",
+        "xrp",
+        "ledger,",
+        "enters",
+        "stablecoin",
+        "fray",
+        "vs.",
+        "tether,",
+        "usdc"
+      ],
+      "feedDate": 1712235600000,
+      "source": "CoinDesk",
+      "title": "Ripple, Developer Behind XRP Ledger, Enters Stablecoin Fray vs. Tether, USDC",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/Lqw4TdLk2wJzVzl9CpXft4B4H4I=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H3HCUZ7CA5EBBFHFIODGUCXXTQ.jpg",
+      "reactionsCount": {
+        "2": 35,
+        "3": 26
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/cf8ee91c724b2c6c5199edd72fccfe05820ec9be73fb90274d77de6d8a1f16d4_Ripple-Developer-Behind-XRP-Ledger-Enters-Stablecoin-Fray-vs.-Tether-USDC",
+      "relatedCoins": [
+        "usd-coin",
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/tech/2024/04/04/ripple-developer-behind-xrp-ledger-enters-stablecoin-fray-vs-tether-usdc/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The token will be \"100% backed by U.S. dollar deposits, short-term U.S. government Treasuries and other cash equivalents.\" according to the company.",
+      "coins": [
+        {
+          "coinKeyWords": "USDC",
+          "coinPercent": -0.26,
+          "coinTitleKeyWords": "USDC",
+          "coinNameKeyWords": "USDC",
+          "coinIdKeyWords": "usd-coin"
+        },
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 2.07,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "3ae2b719866f3d3d7338fce4d977bd8414b5247cd72285329ef41ece1caaf2cf",
+      "searchKeyWords": [
+        "market",
+        "maker",
+        "gsr",
+        "recieves",
+        "singapore",
+        "license"
+      ],
+      "feedDate": 1712214238000,
+      "source": "CoinDesk",
+      "title": "Crypto Market Maker GSR Recieves Singapore Crypto License",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/MzVpB881JlKVJ7Ry4MrDaXc9E2Q=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5RTEIG75WVEHHKHDHD44ORGV5E.jpg",
+      "reactionsCount": {
+        "2": 29,
+        "3": 19
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/3ae2b719866f3d3d7338fce4d977bd8414b5247cd72285329ef41ece1caaf2cf_Crypto-Market-Maker-GSR-Recieves-Singapore-Crypto-License",
+      "relatedCoins": [
+        "maker"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/policy/2024/04/04/crypto-market-maker-gsr-recieves-singapore-crypto-license/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The license is the first awarded by Singapore to a crypto market maker.",
+      "coins": [
+        {
+          "coinKeyWords": "MKR",
+          "coinPercent": 1.01,
+          "coinTitleKeyWords": "MKR",
+          "coinNameKeyWords": "Maker",
+          "coinIdKeyWords": "maker"
+        }
+      ]
+    },
+    {
+      "id": "6b1add2852ce2d29d25d3a2d3a7b955f10d6aba5596774fad9f2bb093bbae741",
+      "searchKeyWords": [
+        "latest news",
+        "news",
+        "arkham",
+        "nansen",
+        "publicly",
+        "shames",
+        "competitor"
+      ],
+      "feedDate": 1712252822000,
+      "source": "Cryptopolitan",
+      "title": "Nansen publicly shames competitor Arkham",
+      "sourceLink": "https://www.cryptopolitan.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.cryptopolitan.com/wp-content/uploads/2024/04/DALL·E-2024-04-04-18.11.05-Craft-a-scene-that-visualizes-the-scenario-where-Nansen-a-blockchain-analytics-platform-publicly-criticizes-or-shames-its-competitor-Arkham-in-a-p.webp",
+      "reactionsCount": {
+        "2": 17,
+        "3": 17
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/6b1add2852ce2d29d25d3a2d3a7b955f10d6aba5596774fad9f2bb093bbae741_Nansen-publicly-shames-competitor-Arkham",
+      "relatedCoins": [
+        "arkham"
+      ],
+      "content": true,
+      "link": "https://www.cryptopolitan.com/nansen-publicly-shames-competitor-arkham/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Well. It would seem that Nansen woke up today and made the conscious decision to choose violence. In a dramatic fashion, they started a very interesting Twitter thread, publicly shaming their biggest competitor Arkham Intelligence. Apparently, the guys at Arkham have been more than a little bit too shady. And Nansen got the receipts too! [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "ARKM",
+          "coinPercent": 1.12,
+          "coinTitleKeyWords": "ARKM",
+          "coinNameKeyWords": "Arkham",
+          "coinIdKeyWords": "arkham"
+        }
+      ]
+    },
+    {
+      "id": "ca629920258efa7a8d3d1b6882d67ebaed6a58ff3745808b8022400ddf06fb68",
+      "searchKeyWords": [
+        "derivatives",
+        "lost",
+        "overall",
+        "market",
+        "share",
+        "march",
+        "despite",
+        "hitting",
+        "record",
+        "trading",
+        "volume",
+        "$6.18t"
+      ],
+      "feedDate": 1712299297000,
+      "source": "CoinDesk",
+      "title": "Crypto Derivatives Lost Overall Market Share in March Despite Hitting Record High Trading Volume of $6.18T",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/syIfutlwavCHpoJCKJFbA0WMsi8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/G45EECBV5BGGZBFBXAXLZF6KBM.png",
+      "reactionsCount": {
+        "2": 14,
+        "3": 15
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ca629920258efa7a8d3d1b6882d67ebaed6a58ff3745808b8022400ddf06fb68_Crypto-Derivatives-Lost-Overall-Market-Share-in-March-Despite-Hitting-Record-High-Trading-Volume-of-6.18T",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://www.coindesk.com/markets/2024/04/05/crypto-derivatives-lost-overall-market-share-in-march-despite-hitting-record-high-trading-volume-of-618t/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The share of crypto derivatives in total market activity slipped to 67.8% in March, according to CCData.",
+      "coins": []
+    },
+    {
+      "id": "867da69657c4fa9f1340efd628f4d086df82b3750c9f12105ab34302fb55e1d4",
+      "searchKeyWords": [
+        "google",
+        "takes",
+        "legal",
+        "action",
+        "against",
+        "alleged",
+        "scammers",
+        "uploading",
+        "fraudulent",
+        "apps"
+      ],
+      "feedDate": 1712232439000,
+      "source": "CoinDesk",
+      "title": "Google Takes Legal Action Against Alleged Crypto Scammers for Uploading Fraudulent Apps",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/Xn3rgPvYGYDT_e57gvZzUWSYmPQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XXJUQCHQJJDV3CJXMUGTV7XLJY",
+      "reactionsCount": {
+        "2": 32,
+        "3": 13,
+        "4": 2
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/867da69657c4fa9f1340efd628f4d086df82b3750c9f12105ab34302fb55e1d4_Google-Takes-Legal-Action-Against-Alleged-Crypto-Scammers-for-Uploading-Fraudulent-Apps",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://www.coindesk.com/policy/2024/04/04/google-takes-legal-action-against-alleged-crypto-scammers-for-uploading-fraudulent-apps/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The defendants are said to have committed hundreds of acts of wire fraud, \"causing harm to Google and at least approximately 100,000 Google users.\"",
+      "coins": []
+    },
+    {
+      "id": "f2a54fd4714e5739fa7fca635a8842de90ab2ced3d6acdd21224c5ecf68252be",
+      "searchKeyWords": [
+        "xrp",
+        "skyrockets",
+        "over",
+        "80%",
+        "metric",
+        "as",
+        "price",
+        "attempts",
+        "rebound"
+      ],
+      "feedDate": 1712320740000,
+      "source": "U.Today",
+      "title": "XRP Skyrockets Over 80% in Key Metric as Price Attempts Rebound",
+      "sourceLink": "https://u.today/",
+      "isFeatured": false,
+      "imgUrl": "https://u.today/sites/default/files/styles/736x/public/2024-04/46872.jpg",
+      "reactionsCount": {
+        "2": 18,
+        "3": 12
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/f2a54fd4714e5739fa7fca635a8842de90ab2ced3d6acdd21224c5ecf68252be_XRP-Skyrockets-Over-80-in-Key-Metric-as-Price-Attempts-Rebound",
+      "relatedCoins": [
+        "ripple"
+      ],
+      "content": true,
+      "link": "https://u.today/xrp-skyrockets-over-80-in-key-metric-as-price-attempts-rebound?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "XRP's trading volume has surged over 80% as price looks for momentum",
+      "coins": [
+        {
+          "coinKeyWords": "XRP",
+          "coinPercent": 2.07,
+          "coinTitleKeyWords": "XRP",
+          "coinNameKeyWords": "XRP",
+          "coinIdKeyWords": "ripple"
+        }
+      ]
+    },
+    {
+      "id": "08d6757644eb0533ce581d7e9ebff7ff191d04e4d8dfe6ea057046415204659e",
+      "searchKeyWords": [
+        "bitcoin",
+        "spikes",
+        "10%",
+        "after",
+        "halving,",
+        "hovers",
+        "above",
+        "$66k"
+      ],
+      "feedDate": 1712231623000,
+      "source": "CoinDesk",
+      "title": "Bitcoin Cash Spikes 10% After Halving, Bitcoin Hovers Above $66K",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/EkH3yLBamkQbVIT1pV5GJI1OJAQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5HK2YAN7J5H33GIN32LVKI7S4Y.jpg",
+      "reactionsCount": {
+        "2": 19,
+        "3": 11
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/08d6757644eb0533ce581d7e9ebff7ff191d04e4d8dfe6ea057046415204659e_Bitcoin-Cash-Spikes-10-After-Halving-Bitcoin-Hovers-Above-66K",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/markets/2024/04/04/bitcoin-cash-spikes-10-after-halving-bitcoin-hovers-above-66k/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Analysts said BTC traders are probably waiting for macroeconomic signals before making a move, referring to the current market lull.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.65,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "fd5aa5471528a01f53210cefc34e2ce1e35c9b311a8d62e8ca0f0f324531cc0a",
+      "searchKeyWords": [
+        "24/7 cryptocurrency news",
+        "bitcoin news",
+        "bitcoin etf",
+        "bitcoin etf inflows",
+        "bitcoin etf outflows",
+        "gbtc",
+        "grayscale bitcoin etf",
+        "outflows",
+        "to",
+        "lowest",
+        "month,",
+        "bitcoin",
+        "price",
+        "rally",
+        "ahead?"
+      ],
+      "feedDate": 1712205989000,
+      "source": "CoinGape",
+      "title": "GBTC Outflows Drop to The Lowest In A Month, Bitcoin Price Rally Ahead?",
+      "sourceLink": "https://coingape.com/",
+      "isFeatured": false,
+      "imgUrl": "https://coingape.com/wp-content/uploads/2024/03/bitcoin-price5-1.jpg",
+      "reactionsCount": {
+        "2": 41,
+        "3": 10
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/fd5aa5471528a01f53210cefc34e2ce1e35c9b311a8d62e8ca0f0f324531cc0a_GBTC-Outflows-Drop-to-The-Lowest-In-A-Month-Bitcoin-Price-Rally-Ahead",
+      "relatedCoins": [
+        "bitcoin",
+        "rally-2"
+      ],
+      "content": true,
+      "link": "https://coingape.com/gbtc-outflows-drop-to-the-lowest-in-a-month-bitcoin-price-rally-ahead/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "After a week of outflows in March, the spot Bitcoin ETFs are finding a strong footing again with inflows turning positive. The good thing is that the outflows from Grayscale Bitcoin ETF GBTC have also been on a declining trend. The daily GBTC outflows stood under $100 million for the second consecutive day on Wednesday, ",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.65,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "RLY",
+          "coinPercent": -0.6,
+          "coinTitleKeyWords": "RLY",
+          "coinNameKeyWords": "Rally",
+          "coinIdKeyWords": "rally-2"
+        }
+      ]
+    },
+    {
+      "id": "ce25ae21bff641df895f7969514a0ec48af52d996c7d8907d28b74e62f1c2c48",
+      "searchKeyWords": [
+        "eu",
+        "watchdog",
+        "says",
+        "reordering",
+        "blockchain",
+        "transactions",
+        "might",
+        "be",
+        "market",
+        "abuse.",
+        "industry",
+        "it's",
+        "not"
+      ],
+      "feedDate": 1712289600000,
+      "source": "CoinDesk",
+      "title": "EU Watchdog Says Reordering Blockchain Transactions Might Be Market Abuse. Industry Says It's Not",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/kKc1XdegiEQV4H8zpG6uVcVHAHE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4TBWKA54O5G7VFQACBUWDJ5MNU.jpg",
+      "reactionsCount": {
+        "2": 12,
+        "3": 8
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ce25ae21bff641df895f7969514a0ec48af52d996c7d8907d28b74e62f1c2c48_EU-Watchdog-Says-Reordering-Blockchain-Transactions-Might-Be-Market-Abuse.-Industry-Says-Its-Not",
+      "relatedCoins": [],
+      "content": true,
+      "link": "https://www.coindesk.com/policy/2024/04/05/eu-watchdog-says-reordering-blockchain-transactions-might-be-market-abuse-industry-says-its-not/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Maximum Extractable Value (MEV), in which crypto miners reorder transactions they validate for profit, is not inherently bad, some policy experts point out.",
+      "coins": []
+    },
+    {
+      "id": "108a9e3831379739a40da617aad6ad13d0c80f0d546ebc976b44c58b6045ff8d",
+      "searchKeyWords": [
+        "journal",
+        "latest news",
+        "cardano’s",
+        "bulls’",
+        "hopes",
+        "continue",
+        "to",
+        "wane",
+        "as",
+        "ada",
+        "technicals",
+        "remain",
+        "bearish",
+        "and",
+        "whale",
+        "activity",
+        "dips:",
+        "watch",
+        "these",
+        "levels",
+        "closely",
+        "cardano"
+      ],
+      "feedDate": 1712351700000,
+      "source": "CaptainAltcoin",
+      "title": "Cardano’s Bulls’ Hopes Continue to Wane as ADA Technicals Remain Bearish and Whale Activity Dips: Watch These Key Levels Closely",
+      "sourceLink": "https://captainaltcoin.com",
+      "isFeatured": false,
+      "imgUrl": "https://captainaltcoin.com/wp-content/uploads/2023/10/Copy-of-P2P-Review-18-1-300x175.png",
+      "reactionsCount": {
+        "2": 10,
+        "3": 5
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/108a9e3831379739a40da617aad6ad13d0c80f0d546ebc976b44c58b6045ff8d_Cardanos-Bulls-Hopes-Continue-to-Wane-as-ADA-Technicals-Remain-Bearish-and-Whale-Activity-Dips-Watch-These-Key-Levels-Closely",
+      "relatedCoins": [
+        "cardano"
+      ],
+      "content": true,
+      "link": "https://captainaltcoin.com/cardanos-bulls-hopes-continue-to-wane-as-technicals-remain-bearish-and-whale-activity-dips-watch-these-key-levels-closely/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "According to charts shared by @ali_charts on Twitter, the Cardano (ADA) cryptocurrency appears to be facing bearish technicals and a lack of large investor activity, potentially signaling further price consolidation or an impending drop. Data from the blockchain analytics firm altFINS shows Cardano is experiencing a lull in whale transactions, with large ADA holders exhibiting",
+      "coins": [
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.25,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        }
+      ]
+    },
+    {
+      "id": "c5c261d8962b522f50d001359c35d4e311b787a3e6cc1e822682a86ab3012c6d",
+      "searchKeyWords": [
+        "galaxy",
+        "plans",
+        "to",
+        "raise",
+        "$100m",
+        "first",
+        "venture",
+        "fund"
+      ],
+      "feedDate": 1712169445000,
+      "source": "CoinDesk",
+      "title": "Galaxy Plans to Raise $100M for First Crypto Venture Fund",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/8IUMMArdS-JF97h4XKa1JvuWsVw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B3RDT3XZTFE3VIICDLLY3T7EH4.jpg",
+      "reactionsCount": {
+        "2": 7,
+        "3": 5
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/c5c261d8962b522f50d001359c35d4e311b787a3e6cc1e822682a86ab3012c6d_Galaxy-Plans-to-Raise-100M-for-First-Crypto-Venture-Fund",
+      "relatedCoins": [],
+      "content": false,
+      "link": "https://www.coindesk.com/business/2024/04/03/galaxy-plans-to-raise-100m-for-first-crypto-venture-fund/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "",
+      "coins": []
+    },
+    {
+      "id": "de02ede8c3a2f98699b4af52480e177c41641f86203821da803c35d8777167c8",
+      "searchKeyWords": [
+        "etf",
+        "investments",
+        "cardano",
+        "cosmos",
+        "grayscale",
+        "drops",
+        "and",
+        "from",
+        "its",
+        "funds",
+        "quarterly",
+        "rebalancing"
+      ],
+      "feedDate": 1712331304000,
+      "source": "CryptoSlate",
+      "title": "Grayscale drops Cardano and Cosmos from its crypto funds in quarterly rebalancing",
+      "sourceLink": "https://cryptoslate.com/",
+      "isFeatured": false,
+      "imgUrl": "https://cryptoslate.com/wp-content/uploads/2024/04/grayscale-crypto-assets.jpg",
+      "reactionsCount": {
+        "2": 8,
+        "3": 4
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/de02ede8c3a2f98699b4af52480e177c41641f86203821da803c35d8777167c8_Grayscale-drops-Cardano-and-Cosmos-from-its-crypto-funds-in-quarterly-rebalancing",
+      "relatedCoins": [
+        "cardano",
+        "cosmos"
+      ],
+      "content": true,
+      "link": "https://cryptoslate.com/grayscale-drops-cardano-and-cosmos-from-its-crypto-funds-in-quarterly-rebalancing/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Prominent crypto asset management firm Grayscale has removed two high-profile digital assets, Cardano and Cosmos, from its multi-asset funds as part of its quarterly fund rebalancing. In an April 4 press statement, the firm revealed that it removed Cardano from its Grayscale Digital Large Cap Fund (GDLC) and Cosmos&#8217;s ATOM token from the Grayscale Smart [&#8230;]",
+      "coins": [
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.25,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        },
+        {
+          "coinKeyWords": "ATOM",
+          "coinPercent": 0.48,
+          "coinTitleKeyWords": "ATOM",
+          "coinNameKeyWords": "Cosmos Hub",
+          "coinIdKeyWords": "cosmos"
+        }
+      ]
+    },
+    {
+      "id": "37c8f697ca50e1c6b5fc981e14e95eb5a45ec6cdce38b51f9c0e3e05ee6cabb7",
+      "searchKeyWords": [
+        "markets",
+        "shiba inu (shib) analysis",
+        "shiba",
+        "inu’s",
+        "future",
+        "looks",
+        "grim:",
+        "slow",
+        "network",
+        "activity",
+        "to",
+        "blame",
+        "shiba inu",
+        "optimism",
+        "just",
+        "rally"
+      ],
+      "feedDate": 1712402992000,
+      "source": "BeInCrypto",
+      "title": "Shiba Inu’s Future Looks Grim: Slow Network Activity to Blame",
+      "sourceLink": "https://beincrypto.com/",
+      "isFeatured": false,
+      "imgUrl": "https://beincrypto.com/wp-content/uploads/2024/01/bic_Shiba_inu-covers_bearish.jpg",
+      "reactionsCount": {
+        "2": 2,
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/37c8f697ca50e1c6b5fc981e14e95eb5a45ec6cdce38b51f9c0e3e05ee6cabb7_Shiba-Inus-Future-Looks-Grim-Slow-Network-Activity-to-Blame",
+      "relatedCoins": [
+        "shiba-inu",
+        "optimism",
+        "just",
+        "rally-2"
+      ],
+      "content": true,
+      "link": "https://beincrypto.com/shiba-inu-shib-price-rise-correction/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Shiba Inu (SHIB) price is presenting a nuanced picture as it navigates through various market indicators.",
+      "coins": [
+        {
+          "coinKeyWords": "SHIB",
+          "coinPercent": 1.72,
+          "coinTitleKeyWords": "SHIB",
+          "coinNameKeyWords": "Shiba Inu",
+          "coinIdKeyWords": "shiba-inu"
+        },
+        {
+          "coinKeyWords": "OP",
+          "coinPercent": 0.88,
+          "coinTitleKeyWords": "OP",
+          "coinNameKeyWords": "Optimism",
+          "coinIdKeyWords": "optimism"
+        },
+        {
+          "coinKeyWords": "JST",
+          "coinPercent": -1.97,
+          "coinTitleKeyWords": "JST",
+          "coinNameKeyWords": "JUST",
+          "coinIdKeyWords": "just"
+        }
+      ]
+    },
+    {
+      "id": "bf3b38717511ddaeff592f0fbe40b32a620f898aa4d087e9345960fed3c7f27b",
+      "searchKeyWords": [
+        "press release",
+        "shiba",
+        "inu",
+        "(shib)",
+        "community",
+        "tracks",
+        "founder",
+        "ryoshi’s",
+        "wallet,",
+        "won’t",
+        "believe",
+        "how",
+        "much",
+        "he",
+        "holds",
+        "bitcoin",
+        "shiba inu"
+      ],
+      "feedDate": 1712396541000,
+      "source": "Coinpedia",
+      "title": "Shiba Inu (SHIB) Community Tracks Founder Ryoshi’s Wallet, You Won’t Believe How Much He Holds",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/04/06151055/etfswap-2-1024x536.webp",
+      "reactionsCount": {
+        "2": 4,
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/bf3b38717511ddaeff592f0fbe40b32a620f898aa4d087e9345960fed3c7f27b_Shiba-Inu-SHIB-Community-Tracks-Founder-Ryoshis-Wallet-You-Wont-Believe-How-Much-He-Holds",
+      "relatedCoins": [
+        "bitcoin",
+        "shiba-inu"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/press-release/shib-community-tracks-founder-ryoshis-wallet/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post Shiba Inu (SHIB) Community Tracks Founder Ryoshi&#8217;s Wallet, You Won&#8217;t Believe How Much He Holds appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.65,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "SHIB",
+          "coinPercent": 1.72,
+          "coinTitleKeyWords": "SHIB",
+          "coinNameKeyWords": "Shiba Inu",
+          "coinIdKeyWords": "shiba-inu"
+        }
+      ]
+    },
+    {
+      "id": "ec462813a4f28a8e985db8dc0ac3d8815e84863f8d0a17329c6bcd1038317568",
+      "searchKeyWords": [
+        "finance news",
+        "cardano (ada)",
+        "charles hoskinson",
+        "cmc rss",
+        "coin stats rss",
+        "getting informed",
+        "short news",
+        "trading exchange rss",
+        "une",
+        "crypto:",
+        "charles",
+        "hoskinson",
+        "has",
+        "unwavering",
+        "confidence",
+        "ada",
+        "bitcoin",
+        "cardano",
+        "optimism",
+        "just",
+        "swissborg",
+        "rally"
+      ],
+      "feedDate": 1712241035000,
+      "source": "Cointribune English",
+      "title": "Crypto: Charles Hoskinson has unwavering confidence in ADA",
+      "sourceLink": "https://www.cointribune.com/en/",
+      "isFeatured": false,
+      "imgUrl": "https://www.cointribune.com/app/uploads/2024/04/Hoskinson-ADA-hausse-1024x683.png",
+      "reactionsCount": {
+        "2": 12,
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ec462813a4f28a8e985db8dc0ac3d8815e84863f8d0a17329c6bcd1038317568_Crypto-Charles-Hoskinson-has-unwavering-confidence-in-ADA",
+      "relatedCoins": [
+        "bitcoin",
+        "cardano",
+        "optimism",
+        "just",
+        "swissborg",
+        "rally-2"
+      ],
+      "content": true,
+      "link": "https://www.cointribune.com/en/crypto-charles-hoskinson-has-unwavering-confidence-in-ada/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Charles Hoskinson, co-founder of the crypto firm Cardano, has recently spoken about ADA, the native asset of the platform. Now more than ever, the expert believes in the crypto’s capacity to make an impact due to its dynamism. An optimism that must contend with the constant threat posed by the volatility inherent in the crypto market.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.65,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        },
+        {
+          "coinKeyWords": "ADA",
+          "coinPercent": 1.25,
+          "coinTitleKeyWords": "ADA",
+          "coinNameKeyWords": "Cardano",
+          "coinIdKeyWords": "cardano"
+        },
+        {
+          "coinKeyWords": "OP",
+          "coinPercent": 0.88,
+          "coinTitleKeyWords": "OP",
+          "coinNameKeyWords": "Optimism",
+          "coinIdKeyWords": "optimism"
+        }
+      ]
+    },
+    {
+      "id": "ae634002e65167ab5e9e327f73067b3abbe267b32a44e9f1b9ca3eec6cfbc084",
+      "searchKeyWords": [
+        "more news",
+        "chainlink",
+        "(link)",
+        "&",
+        "stellar",
+        "(xlm)",
+        "communities",
+        "buzz",
+        "about",
+        "kelexo",
+        "(klxo)",
+        "$0.05",
+        "presale",
+        "stage",
+        "2",
+        "offering",
+        "potentially",
+        "lucrative",
+        "easter",
+        "rewards"
+      ],
+      "feedDate": 1712175160000,
+      "source": "CryptoDaily",
+      "title": "Chainlink (LINK) & Stellar (XLM) Communities Buzz About Kelexo (KLXO) $0.05 Presale Stage 2 Offering Potentially Lucrative Easter Rewards",
+      "sourceLink": "https://cryptodaily.co.uk",
+      "isFeatured": false,
+      "imgUrl": "https://cryptodaily.blob.core.windows.net/space/Screenshot%202024-04-03%20at%2021.05.05.png",
+      "reactionsCount": {
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/ae634002e65167ab5e9e327f73067b3abbe267b32a44e9f1b9ca3eec6cfbc084_Chainlink-LINK--Stellar-XLM-Communities-Buzz-About-Kelexo-KLXO-0.05-Presale-Stage-2-Offering-Potentially-Lucrative-Easter-Rewards",
+      "relatedCoins": [
+        "chainlink",
+        "stellar"
+      ],
+      "content": true,
+      "link": "https://cryptodaily.co.uk/2024/04/chainlink-link-stellar-xlm-communities-buzz-about-kelexo-klxo-005-presale-stage-2-offering-potentially-lucrative-easter-rewards?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The Easter break has given pause to what has been a sensational run for the crypto industry in the first quarter of 2024, foreshadowing what could be an epic April.",
+      "coins": [
+        {
+          "coinKeyWords": "LINK",
+          "coinPercent": 0.48,
+          "coinTitleKeyWords": "LINK",
+          "coinNameKeyWords": "Chainlink",
+          "coinIdKeyWords": "chainlink"
+        },
+        {
+          "coinKeyWords": "XLM",
+          "coinPercent": 1.53,
+          "coinTitleKeyWords": "XLM",
+          "coinNameKeyWords": "Stellar",
+          "coinIdKeyWords": "stellar"
+        }
+      ]
+    },
+    {
+      "id": "93e736b3b23aee2e21be5fe57f6497544f9c62012ea888a256136bba38adec4e",
+      "searchKeyWords": [
+        "choppy",
+        "bitcoin",
+        "price",
+        "action",
+        "continues",
+        "ahead",
+        "friday's",
+        "jobs",
+        "report"
+      ],
+      "feedDate": 1712174413000,
+      "source": "CoinDesk",
+      "title": "Choppy Bitcoin Price Action Continues Ahead of Friday's Jobs Report",
+      "sourceLink": "https://www.coindesk.com/",
+      "isFeatured": false,
+      "imgUrl": "https://www.coindesk.com/resizer/gZ4wCxgvIFFPd0RfSDEsjNwArMw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JW5FU6PF3JAOPMXT27ISYPWSGU.jpeg",
+      "reactionsCount": {
+        "2": 11,
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/93e736b3b23aee2e21be5fe57f6497544f9c62012ea888a256136bba38adec4e_Choppy-Bitcoin-Price-Action-Continues-Ahead-of-Fridays-Jobs-Report",
+      "relatedCoins": [
+        "bitcoin"
+      ],
+      "content": true,
+      "link": "https://www.coindesk.com/markets/2024/04/03/choppy-bitcoin-price-action-continues-ahead-of-fridays-jobs-report/?utm_medium%3Dreferral%26amp%3Butm_source%3Drss%26amp%3Butm_campaign%3Dheadlines&utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "Flows into the new spot ETFs have been subdued for a couple of weeks, possibly prompting a renewed interest in macro drivers for price direction.",
+      "coins": [
+        {
+          "coinKeyWords": "BTC",
+          "coinPercent": 0.65,
+          "coinTitleKeyWords": "BTC",
+          "coinNameKeyWords": "Bitcoin",
+          "coinIdKeyWords": "bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "61daa2ccba038cbf8a4346ef71be55cc01ef7f6a15070c094329ea7f570dc21f",
+      "searchKeyWords": [
+        "guest post",
+        "furrever",
+        "token",
+        "(furr)",
+        "be",
+        "next",
+        "big",
+        "meme",
+        "coin?",
+        "dogecoin",
+        "(doge)",
+        "and",
+        "shiba",
+        "inu",
+        "(shib)",
+        "prices",
+        "slide",
+        "as",
+        "furr",
+        "presale",
+        "gains",
+        "momentum",
+        "shiba inu"
+      ],
+      "feedDate": 1712167200000,
+      "source": "Coinpedia",
+      "title": "Will Furrever Token (FURR) Be the Next Big Meme Coin? Dogecoin (DOGE) and Shiba Inu (SHIB) Prices Slide as FURR Presale Gains Momentum",
+      "sourceLink": "http://coinpedia.org/",
+      "isFeatured": false,
+      "imgUrl": "https://image.coinpedia.org/wp-content/uploads/2024/04/03173417/furrever-token-2-1024x536.webp",
+      "reactionsCount": {
+        "2": 2,
+        "3": 3
+      },
+      "reactions": [],
+      "shareURL": "https://coinstats.app/news/61daa2ccba038cbf8a4346ef71be55cc01ef7f6a15070c094329ea7f570dc21f_Will-Furrever-Token-FURR-Be-the-Next-Big-Meme-Coin-Dogecoin-DOGE-and-Shiba-Inu-SHIB-Prices-Slide-as-FURR-Presale-Gains-Momentum",
+      "relatedCoins": [
+        "dogecoin",
+        "shiba-inu"
+      ],
+      "content": true,
+      "link": "https://coinpedia.org/guest-post/will-furrever-token-be-the-next-big-meme-coin/?utm_medium=referral&utm_source=coinstats",
+      "bigImg": false,
+      "description": "The post Will Furrever Token (FURR) Be the Next Big Meme Coin? Dogecoin (DOGE) and Shiba Inu (SHIB) Prices Slide as FURR Presale Gains Momentum appeared first on Coinpedia Fintech News",
+      "coins": [
+        {
+          "coinKeyWords": "DOGE",
+          "coinPercent": 4.65,
+          "coinTitleKeyWords": "DOGE",
+          "coinNameKeyWords": "Dogecoin",
+          "coinIdKeyWords": "dogecoin"
+        },
+        {
+          "coinKeyWords": "SHIB",
+          "coinPercent": 1.72,
+          "coinTitleKeyWords": "SHIB",
+          "coinNameKeyWords": "Shiba Inu",
+          "coinIdKeyWords": "shiba-inu"
+        }
+      ]
+    }
+  ]
+}

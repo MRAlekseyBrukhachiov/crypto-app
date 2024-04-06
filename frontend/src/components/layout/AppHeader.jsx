@@ -3,6 +3,7 @@ import { useCrypto } from '../../context/crypto-context';
 import { useEffect, useState } from 'react';
 import CoinInfoModal from '../CoinInfoModal';
 import AddAssetForm from '../AddAssetForm';
+import { Link } from 'react-router-dom';
 
 const headerStyle = {
     width: '100%',
@@ -59,7 +60,12 @@ const AppHeader = () => {
                 </Space>
                 )}
             />
-            <Button type="default" onClick={() => setDrawer(true)}>News</Button>
+            <Link to={`/news`}>
+                <Button type="default">News</Button>
+            </Link>
+            <Link to={`/`}>
+                <Button type="default">Portfolio</Button>
+            </Link>
             <Button type="primary" onClick={() => setDrawer(true)}>Add Asset</Button>
 
             <Modal open={modal} onCancel={() => setModal(false)} footer={null}>

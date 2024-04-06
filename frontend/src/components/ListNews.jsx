@@ -1,6 +1,6 @@
 import { ClockCircleOutlined } from '@ant-design/icons';
 import React from 'react';
-import { List, Space, Typography } from 'antd';
+import { Card, List, Space, Typography } from 'antd';
 import { getTimeAgo } from '../utils';
 
   const IconText = ({ icon, text }) => (
@@ -35,47 +35,49 @@ const ListNews = ({news, label}) => {
     }))
 
     return (
-        <List
-            itemLayout="vertical"
-            style={{background: 'white', padding: 15}}
-            size="large"
-            pagination={{
-                onChange: (page) => {
-                    console.log(page);
-                },
-                pageSize: 4,
-            }}
-            dataSource={data}
-            header={
-                <Typography.Title level={2} style={{textAlign: 'left', padding: '1rem'}}>
-                    {label} News
-                </Typography.Title>
-            }
-            renderItem={(item) => (
-            <List.Item
-                key={item.title}
-                style={{textAlign: 'left'}}
-                actions={[
-                    <IconText icon={ClockCircleOutlined} text={showTime(item.timeAgo)} key="list-vertical-clock" />,
-                ]}
-                extra={
-                    <img
-                        style={{objectFit: 'cover'}}
-                        width={272}
-                        height={182}
-                        alt="logo"
-                        src={item.imgUrl}
-                    />
+        <Card style={{marginBottom: '1rem'}}>
+            <List
+                itemLayout="vertical"
+                style={{background: 'white' }}
+                size="large"
+                pagination={{
+                    onChange: (page) => {
+                        console.log(page);
+                    },
+                    pageSize: 4,
+                }}
+                dataSource={data}
+                header={
+                    <Typography.Title level={2} style={{textAlign: 'left', padding: '1rem'}}>
+                        {label} News
+                    </Typography.Title>
                 }
-            >
-                <List.Item.Meta
-                    title={<a href={item.href}>{item.title}</a>}
-                    description={<a href={item.sourceLink}>{item.description}</a>}
-                />
-                    {item.content}
-                </List.Item>
-            )}
-        />
+                renderItem={(item) => (
+                    <List.Item
+                        key={item.title}
+                        style={{textAlign: 'left'}}
+                        actions={[
+                            <IconText icon={ClockCircleOutlined} text={showTime(item.timeAgo)} key="list-vertical-clock" />,
+                        ]}
+                        extra={
+                            <img
+                                style={{objectFit: 'cover'}}
+                                width={272}
+                                height={182}
+                                alt="news logo"
+                                src={item.imgUrl}
+                            />
+                        }
+                    >
+                        <List.Item.Meta
+                            title={<a href={item.href}>{item.title}</a>}
+                            description={<a href={item.sourceLink}>{item.description}</a>}
+                        />
+                            {item.content}
+                        </List.Item>
+                )}
+            />
+        </Card>
     )
 }
 

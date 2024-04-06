@@ -1,5 +1,5 @@
 import { createContext, useState, useEffect, useContext } from "react";
-import { fakeFetchAssets, fakeFetchCrypto, fakeFetchLatestNews, fakeFetchTrendingNews } from "../components/api";
+import { fakeFetchAssets, fakeFetchBearishNews, fakeFetchBullishNews, fakeFetchCrypto, fakeFetchLatestNews, fakeFetchTrendingNews } from "../components/api";
 import { percentDifference } from "../utils";
 
 const CryptoContext = createContext({
@@ -7,6 +7,8 @@ const CryptoContext = createContext({
     crypto: [],
     latestNews: [],
     trendingNews: [],
+    bullishNews: [],
+    bearishNews: [],
     loading: false
 })
 
@@ -16,6 +18,8 @@ const CryptoContextProvider = ({children}) => {
     const [assets, setAssets] = useState([])
     const [latestNews, setLatestNews] = useState([])
     const [trendingNews, setTrendingNews] = useState([])
+    const [bullishNews, setBullishNews] = useState([])
+    const [bearishNews, setBearishNews] = useState([])
 
     const mapAssets = (assets, result) => {
         return assets.map(asset => {
@@ -38,11 +42,15 @@ const CryptoContextProvider = ({children}) => {
             const assets = await fakeFetchAssets()
             const latestNews = await fakeFetchLatestNews()
             const trendingNews = await fakeFetchTrendingNews()
+            const bullishNews = await fakeFetchBullishNews()
+            const bearishNews = await fakeFetchBearishNews()
 
             setCrypto(result)
             setAssets(mapAssets(assets, result))
             setLatestNews(latestNews.result)
             setTrendingNews(trendingNews.result)
+            setBullishNews(bullishNews.result)
+            setBearishNews(bearishNews.result)
             setLoading(false)
         }
         preload()
@@ -73,7 +81,9 @@ const CryptoContextProvider = ({children}) => {
     }
 
     return (
-        <CryptoContext.Provider value={{ loading, crypto, assets, latestNews, trendingNews, addAsset, deleteAsset, updateAsset }}>
+        <CryptoContext.Provider value={{ 
+            loading, crypto, assets, latestNews, trendingNews, bullishNews, bearishNews, addAsset, deleteAsset, updateAsset 
+        }}>
             {children}
         </CryptoContext.Provider>
     )

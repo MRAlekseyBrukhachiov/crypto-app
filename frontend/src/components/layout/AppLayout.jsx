@@ -1,7 +1,9 @@
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import { Layout, Spin } from "antd"
 import AppHeader from "./AppHeader"
 import AppSider from "./AppSider"
-import AppContent from "./AppContent"
+import AppPortfolio from "./AppPortfolio"
+import AppNews from "./AppNews"
 import { useCrypto } from "../../context/crypto-context"
 
 const AppLayout = () => {
@@ -12,13 +14,18 @@ const AppLayout = () => {
     }
 
     return (
-        <Layout>
-            <AppHeader/>
+        <Router>
             <Layout>
-                <AppSider/>
-                <AppContent/>
+                <AppHeader/>
+                <Layout>
+                    <AppSider/>
+                    <Routes>
+                        <Route path="/" element={<AppPortfolio/>}/>
+                        <Route path="/news" element={<AppNews/>}/>
+                    </Routes>
+                </Layout>
             </Layout>
-        </Layout>
+        </Router>
     )
 }
 
